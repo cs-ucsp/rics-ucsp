@@ -9,14 +9,16 @@ title: Publicaciones
           <p>&nbsp;</p>
           <table class="table">
             <tr>
-              <th>Autor</th>
+              <th style="width: 15%;">Autor</th>
               <th>Publicación</th>
             </tr>
-            {% for pub in site.data.publicaciones %}
+            {% for pub in site.data.publicaciones %}           
+            {% if pub.acreditado == "Si" %}
             <tr>
               <td>{{ pub.autor }}</td>
               <td>{{ pub.publicacion }}</td>
             </tr>
+            {% endif %}
             {% endfor %}
           </table>
           
