@@ -12,99 +12,13 @@ title: Investigadores
             <tr>
               <th>Investigador</th> <th>Linea de investigación</th> <th>Email</th>
             </tr>
+            {% for r in site.data.investigadores %}
+            {% if r.acreditado == "Si" %}
             <tr>
-              <td>Dr. Alex Jesús Cuadros Vargas</td>
-              <td>Computación Gráfica</td>
-              <td>alex@ucsp.edu.pe</td>
+              <td>{{ r.investigador }}</td>
+              <td>{{ r.linea }}</td>
+              <td><a href="{{ r.email }}">{{ r.email }}</a></td>
             </tr>
-            <tr>
-              <td>Dr. Ernesto Cuadros-Vargas</td>
-              <td>Estructura de Datos</td>
-              <td>ecuadros@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Dr. Yván Jesús Túpac Valdivia</td>
-              <td>Bioinformática</td>
-              <td>ytupac@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Dr. Dennis Barrios Aranibar</td>
-              <td>Robótica</td>
-              <td>dbarrios@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Dr. Juan Carlos Gutiérrez Cáceres</td>
-              <td>Imágenes e Inteligencia Artificial</td>
-              <td>jcgutierrezc@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Dr. Guillermo Enrique Calderón Ruiz</td>
-              <td>Sistemas de Información</td>
-              <td>gcalderon@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Dr. Javier Leandro Tejada Cárcamo</td>
-              <td>Minería de Datos</td>
-              <td>jtejadac@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Dr. Jose Eduardo Ochoa Luna</td>
-              <td>Inteligencia Artificial</td>
-              <td>jeochoa@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Dr. Raquel Patiño Escarcina</td>
-              <td>Imágenes</td>
-              <td>rpatino@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Dr. Ana María Cuadros Valdivia</td>
-              <td>Visualización Científica</td>
-              <td>ana.maria.cuadros@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. Alvaro Henry Mamani Aliaga</td>
-              <td>Procesamiento Paralelo</td>
-              <td>ahmamani@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. Christian Jorge Delgado Polar</td>
-              <td>Agentes Inteligentes</td>
-              <td>cjdelgado@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. César Christian Castelo Fernández</td>
-              <td>Minería de Datos</td>
-              <td>ccastelo@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. Frizzi Alejandra San Roman Salazar</td>
-              <td>Visualización Científica</td>
-              <td>frizzi.sanroman@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. Gina Lovon Alvarado</td>
-              <td>Ingeniería de Software</td>
-              <td>glovon@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. Graciela Lecireth Meza Lovón</td>
-              <td>Imágenes e Inteligencia Artificial</td>
-              <td>gmezal@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. Julio Omar Santisteban Pablo</td>
-              <td>Minería de Datos</td>
-              <td>jsantisteban@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. Rensso Victor Hugo Mora Colque</td>
-              <td>Procesamiento de Imágenes</td>
-              <td>rensso.mora@ucsp.edu.pe</td>
-            </tr>
-            <tr>
-              <td>Mag. Marc-Antoine Le Guen</td>
-              <td>Computación Gráfica</td>
-              <td>mleguen@ucsp.edu.pe</td>
-            </tr>
+            {% endif %}
+            {% endfor %}
           </table>
