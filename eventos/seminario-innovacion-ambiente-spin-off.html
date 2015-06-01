@@ -3,15 +3,13 @@ layout: default
 title: Seminario Innovación en ambiente Spin-off
 ---
 
-<div class="page-header">
-  <h1 id="type">{{ page.title }}</h1>
-</div>
-<p>&nbsp;</p>
+<h1 id="type">{{ page.title }}</h1>
 
-<div class="row" style="text-align: center">
-  <img src="/img/eventos/evento-spin-off.jpg" alt="Seminario Innovación en ambiente Spin-off" />
+<div style="text-align: center">
+  <img src="/img/eventos/evento-spin-off.jpg" alt="{{ page.title }}" class="img img-responsive" />
 </div>
 <br>
+
 <div class="row">
   <div class="col-md-2">
     <ul role="tablist" class="nav nav-pills nav-stacked navbar-inverse" id="myTab">
@@ -19,6 +17,7 @@ title: Seminario Innovación en ambiente Spin-off
       <li role="presentation"><a href="#expositores" aria-controls="expositores" role="tab">Expositores</a></li>
       <li role="presentation"><a href="#calendario" aria-controls="calendario" role="tab">Calendario</a></li>
       <li role="presentation"><a href="#inversion" aria-controls="inversion" role="tab">Inversión</a></li>
+      <li role="presentation"><a href="#inscripcion" aria-controls="inscripcion" role="tab">Inscripción</a></li>
     </ul>
   </div>
   
@@ -73,13 +72,20 @@ title: Seminario Innovación en ambiente Spin-off
         </table>
       </div>
 
-      <div role="tabpane" class="tab-pane" id="inversion">
+      <div role="tabpanel" class="tab-pane" id="inversion">
         <h2>Inversión</h2>
         <p><strong>Inversión:</strong> S/. 20.00 nuevos soles</p>
         <p><strong>Creditaje: </strong>1 crédito para las escuelas profesionales de administración e Ingeniería Industrial</p>
       </div>
+
+      <div role="tabpanel" class="tab-pane" id="inscripcion">
+        <iframe
+        src="https://docs.google.com/a/ucsp.edu.pe/forms/d/1jjk8KEQL1d5cn1AIVa-su1Yq4FxfVSXIchJgq83qVlE/viewform"
+        width="100%" frameborder="0" height="850px"></iframe>
+      </div>      
     </div>
-  </div><!-- ./ tabpanel -->
+    <!-- ./ tabpanel -->
+  </div>
 
   <div class="col-md-3">
     <div class="hb-alert-box notice">
@@ -87,14 +93,13 @@ title: Seminario Innovación en ambiente Spin-off
         viernes 7, 8 y 9 de julio de 2015</p>
       <br>
     </div>
-    <div id="hb_promo_box_widget-9" class="widget-item clearfix
-                                           hb-promo-box-widget" style="background: #000; padding: 6px;">
+
+    <div id="hb_promo_box_widget-9" class="widget-item clearfix hb-promo-box-widget" style="background: #000; padding: 6px;">
       <section class="hb-promo-box clearfix dark">
         <span style="color:#ffffff; font-weight:bold;font-size:14px;">Informes</span>
         <br>
-        <span
-           style="color:#ffffff;font-size:14px;"><strong>Universidad
-            Católica San Pablo</strong> <br>
+        <span style="color:#ffffff;font-size:14px;">
+        <strong>Universidad Católica San Pablo</strong> <br>
           Centro de Investigación en Ciencia de la Computación<br>
           Casa de Investigación, Campus Campiña Paisajista<br>
           Quinta Vivanco s/n Urb. Campiña Paisajista<br>
