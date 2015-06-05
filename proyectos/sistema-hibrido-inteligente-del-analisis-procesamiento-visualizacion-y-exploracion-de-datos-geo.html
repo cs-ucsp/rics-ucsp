@@ -1,22 +1,54 @@
 ---
 layout: default
 title:  "Proyecto: Sistema Híbrido Inteligente del análisis, procesamiento, visualización y exploración de datos geo -referenciados, referentes al monitoreo de unidades de transporte interprovincial de pasajeros, usando técnicas de minería de datos y visualización"
+id: 7
+parentUri: /proyectos
+parentName: Proyectos
 ---
 
-  <h1>{{ page.title }}</h1>
-<p>&nbsp;</p>
-<p dir="ltr"><strong style="line-height: 1.3em;">Financia:</strong><span style="line-height: 1.3em;"> FINCYT-FIDECOM</span></p>
-<p dir="ltr" style="text-align:
-justify;"><strong>Resumen:&nbsp;</strong>Una bodega de datos que
-contenga información geográfica resumida y confiable de las unidades
-de transporte. Función de detección de patrones y tendencias del
-comportamiento vial de las unidades de transporte, mediante la
-implementación de algoritmos de minería de datos geo-referenciados y
-del análisis multidimensional. Interfaz de visualización inteligente,
-donde se podrá colocar en una sola representación visual la
-información temporal y espacial del comportamiento de unidades de
-transporte, de manera que los resultados sean fácilmente interpretados
-por los usuarios finales</p>
+{% assign p = site.data.proyectos[page.id] %}
 
-    
+<h1>{{ p.nombre }}</h1>
+
+<img src="/img/proyectos/proyecto-{{ p.id }}.png" alt="{{ p.nombre }}">
+
+<p>&nbsp;</p>
+<p>
+{{ p.descripcion }}
+</p>
+
+<table class="table">
+    <tr>
+    <td>
+      <strong>Financia</strong>
+    </td>
+    <td>
+      {{ p.financia }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Investigador principal</strong>
+    </td>
+    <td>
+      {{ p.investigador }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Fecha de inicio</strong>
+    </td>
+    <td>
+      {{ p.inicio }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Fecha de fin</strong>
+    </td>
+    <td>
+      {{ p.fin }}
+    </td>
+  </tr>
+</table>
 

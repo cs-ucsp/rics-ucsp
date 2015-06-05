@@ -3,18 +3,16 @@ layout: default
 title: Proyectos
 ---
 
-          <div class="page-header">
-            <h1 id="type">{{ page.title }}</h1>
-          </div>
-          <p>&nbsp;</p>
+<div class="page-header">
+  <h1 id="type">{{ page.title }}</h1>
+</div>
+<p>&nbsp;</p>
 
-          <ul>
-            <li><a href="/proyectos/proyecto-desarrollo-de-un-kit-de-robotica-educativo-con-mejores-caracteristicas-tecnologicas-y-versatilidad-de-materiales-y-con-facilidad-para-el-soporte-tecnico.html">Proyecto: Desarrollo de un kit de robótica educativo, con mejores características tecnológicas y versatilidad de materiales y con facilidad para el soporte técnico</a></li>
-            <li><a href="/proyectos/proyecto-desarrollo-de-una-flota-de-robots-terrestres-semi-autonoma-controlada-por-una-central-movil-para-busqueda-de-personas.html">Proyecto: Desarrollo de una flota de robots terrestres semi-autónoma, controlada por una central móvil, para búsqueda de personas</a></li>
-            <li><a href="/proyectos/proyecto-sociologia-en-internet-desarrollo-de-una-metodologia-general-de-analisis-de-opinion-publica-usando-herramientas-de-mineria-de-texto-proyecto-internacional-entre-peru-rusia-y-espana.html">Proyecto: Sociología en Internet: Desarrollo de una metodología general de análisis de opinión pública usando herramientas de Minería de Texto (proyecto internacional entre Perú, Rusia y España</a></li>
-            <li><a href="/proyectos/desarrollo-de-un-sistema-inteligente-de-supervision-remota-para-monitoreo-de-signos-vitales-en-pacientes-de-riesgos-y-personas-interesadas-en-cuidar-su-salud.html">Proyecto: Desarrollo de un Sistema Inteligente de Supervisión Remota para monitoreo de signos vitales en pacientes de riesgos y personas interesadas en cuidar su salud</a></li>
-            <li><a href="/proyectos/sistema-hibrido-inteligente-del-analisis-procesamiento-visualizacion-y-exploracion-de-datos-geo.html">Proyecto: Sistema Híbrido Inteligente del análisis, procesamiento, visualización y exploración de datos geo -referenciados, referentes al monitoreo de unidades de transporte interprovincial de pasajeros, usando técnicas de minería de datos y visualización</a></li>
-            <li><a href="/proyectos/latin-latin-american-open-textbooks-initiative.html">Proyecto: LATIN – Latin American Open Textbooks Initiative</a></li>
-          </ul>
 
+{% for p in site.data.proyectos %}
+<a href="/proyectos/{{ p.pagina }}" title="{{ p.nombre }}">
+  <img src="/img/proyectos/proyecto-{{ p.id }}-nombre.png" alt="{{ p.nombre }}" />
+</a>
+<hr/>
+{% endfor %}
 

@@ -1,38 +1,54 @@
 ---
 layout: default
 title:  "Proyecto: Sociología en Internet: Desarrollo de una metodología general de análisis de opinión pública usando herramientas de Minería de Texto (proyecto internacional entre Perú, Rusia y España"
+id: 3
+parentUri: /proyectos
+parentName: Proyectos
 ---
 
-  <h1>{{ page.title }}</h1>
-<p>&nbsp;</p>
-        <p dir="ltr"><strong>Financia:</strong> FINCYT-FIDECOM</p>
-<p dir="ltr" style="text-align: justify;"><strong>Resumen:</strong>
-Actualmente, las Ciencias de Computación y las tecnologías de
-Inteligencia Artificial proponen bastante enfoques metodológicos,
-métodos matemáticos y software para analizar datos de Internet. Sin
-embargo, la mayoría de ellos no se dedican a analizar problemas
-típicos sociológicos (En Sociología, el análisis de redes sociales no
-está orientado a Internet). Algunos de los métodos y software
-existentes analizan problemas muy prácticos como religión o
-terrorismo. Otros se dedican a construir modelos matemáticos y
-desarrollo de software para la construcción de recursos léxicos, como
-tesauros u ontologías. Por estas razones, todo esto no debe ser
-considerado solamente como unas herramientas particulares, sino como
-una metodología general de resolver problemas sociológicos.</p>
+{% assign p = site.data.proyectos[page.id] %}
 
-<p dir="ltr" style="text-align: justify;">Las comunidades de
-científicos sociales, como sociólogos o especialistas en medios de
-comunicación, no conocen áreas computacionales, tales como
-Procesamiento de Lenguaje Natural, Inteligencia Artificial, etc. Ellos
-usan instrumentos tradicionales de investigación; los cuales no son
-aplicables para estudiar el nuevo fenómeno social existente
-Internet. Los sociólogos generalmente usan Internet para obtener
-estadísticas sobre opiniones de problemas específicos (elecciones,
-economía, relaciones internacionales, etc.)</p>
+<h1>{{ p.nombre }}</h1>
 
-<p dir="ltr" style="text-align: justify;">Los especialistas en medios
-de comunicación estudian los efectos que tienen los periódicos
-electrónicos, correos sobre opiniones específicas. Todo esto es
-solamente un barómetro de procesos sociales.</p>
+<img src="/img/proyectos/proyecto-{{ p.id }}.png" alt="{{ p.nombre }}">
 
 <p>&nbsp;</p>
+<p>
+{{ p.descripcion }}
+</p>
+
+<table class="table">
+    <tr>
+    <td>
+      <strong>Financia</strong>
+    </td>
+    <td>
+      {{ p.financia }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Investigador principal</strong>
+    </td>
+    <td>
+      {{ p.investigador }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Fecha de inicio</strong>
+    </td>
+    <td>
+      {{ p.inicio }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Fecha de fin</strong>
+    </td>
+    <td>
+      {{ p.fin }}
+    </td>
+  </tr>
+</table>
+
