@@ -1,26 +1,18 @@
             <div class="navbar-collapse collapse navbar-responsive-collapse">
               <ul class="nav navbar-nav">
-                <!-- 
-                <li {% if page.path == "equipo-de-investigadores.html" %}class="active"{% endif %}><a href="/equipo-de-investigadores.html">Equipo de investigadores</a></li>
-                -->
                 <li {% if page.path == "proyectos/index.html" %}class="active"{% endif %}>
                 <a href="/proyectos">Proyectos</a>
                 </li>
-                <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Maestría en Ciencia de la Computación<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li><a href="/maestriacc/presentacion.html">Presentación</a></li>
-                  <li><a href="/maestriacc/perfil-del-ingresante.html">Perfil del Ingresante</a></li>
-                  <li><a href="/maestriacc/perfil-del-egresado.html">Perfil del Egresado</a></li>
-                  <li><a href="/maestriacc/plan-de-estudios.html">Plan de estudios</a></li>
-                  <li><a href="/maestriacc/plana-docente-y-colaboradores.html">Plana docente y colaboradores</a></li>
-                  <!-- <li><a href="/maestriacc/proceso-de-admision.html">Proceso de Admisión</a></li> -->
-                  <!-- <li><a href="/maestriacc/preguntas-frecuentes.html">Preguntas frecuentes</a></li> -->
-                  <!-- <li><a href="/maestriacc/alumnos-ingresantes.html">Alumnos Ingresantes</a></li> -->
-                  <!-- <li><a href="/maestriacc/proceso-de-admision-2.html">Proceso de Admisión 2014-II</a></li> -->
-                  <!-- <li><a href="/maestriacc/alumnos-ingresantes-2.html">Alumnos Ingresantes 2014-II</a></li> -->
-                  <li><a href="/maestriacc/resolucion-anr.html">Resolución ANR</a></li>
-                </ul>
+                <li>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Maestría en Ciencia de la Computación<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="/maestriacc/presentacion.html">Presentación</a></li>
+                    <li><a href="/maestriacc/perfil-del-ingresante.html">Perfil del Ingresante</a></li>
+                    <li><a href="/maestriacc/perfil-del-egresado.html">Perfil del Egresado</a></li>
+                    <li><a href="/maestriacc/plan-de-estudios.html">Plan de estudios</a></li>
+                    <li><a href="/maestriacc/plana-docente-y-colaboradores.html">Plana docente y colaboradores</a></li>
+                    <li><a href="/maestriacc/resolucion-anr.html">Resolución ANR</a></li>
+                  </ul>
                 </li>
                 <li {% if page.path == "investigadores.html" %}class="active"{% endif %}>
                   <a href="/investigadores.html">Investigadores</a>
@@ -28,6 +20,7 @@
                 <li {% if page.path == "publicaciones.html" %}class="active"{% endif %}>
                   <a href="/publicaciones.html">Publicaciones</a>
                 </li>
+                <li {% if page.path == "eventos/index.html" %}class="active"{% endif %}><a href="/eventos/">Eventos</a></li> 
                 <li {% if page.path == "contacto.html" %}class="active"{% endif %}><a href="/contacto.html">Contacto</a></li> 
               </ul>
             </div>
