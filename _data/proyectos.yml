@@ -1,10 +1,11 @@
-- nombre: Modelo e implementación Computacional de un sistema evolutivo de optimización de edficaciones en Arquitectura Sostenible con soporte a cambio climático
+- nombre: Modelo e implementación Computacional de un sistema evolutivo de optimización de edificaciones en Arquitectura Sostenible con soporte a cambio climático
   id: 1
   investigador: Yván Túpac Valdivia
   financia: FONDECYT
   inicio: 3/02/2015
   fin: 2/02/2017
   descripcion: "Este proyecto tiene como objetivo modelar e implementar computacionalmente un sistema de evaluación y optimización que, utilizando criterios de diseño en edificaciones sostenibles y soporte a cambio climático, ayude al usuario o arquitecto a (1) obtener una nota de la sostenibilidad de su propuesta arquitectónica como (2) apoyarlo a optimizarla progresivamente mediante un algoritmo de busqueda evolutiva, tal que logre mejorar sus evaluaciones de sostenibilidad, tomando en cuente las especificaciones regionales (ambiente, suelo, clima, materiales constructivos), contextos locales (reglamentos, cultura, etc.), y que además de la sostenibilidad, que la edificacion tenga capacidad de adaptación al cambio climático. En la actualidad, al menos en el Perú no se cuenta con un sistema que de manera automatizada y computacional, facilite los cálculos necesarios para este análisis y aún menos que, automáticamente, a partir de una propuesta arquitectónica previa, vaya modificándola progresivamente tal que cada vez se ajuste de mejor forma a los criterios de sostenibilidad definidos, en este caso apoyados por el SB Method (http://www.iisbe.org/sbmethod) y SBTool y también considerando el contexto y especificaciones locales."
+  pagina: implementacion-computacional-sistema-evolutivo.html
 - nombre: Círculos de Investigación en Realidad Aumentada para fines de Tránsito de Vehículos y Seguridad Ciudadana
   id: 2
   investigador: Alex Cuadros Vargas
@@ -12,6 +13,7 @@
   inicio: 24/11/2014
   fin: 23/11/2017
   descripcion: "Este proyecto involucra a las universidades nacionales: Universidad Nacional de  San Agustín (UNSA), la Universidad Nacional de Ucayali (UNU), la Universidad Católica San Pablo (UCSP), y a FONDECYT/CONCYTEC. Además cuenta con el apoyo y asesoramiento de investigadores de la Universidad de Sao Paulo (Brasil), Universidad de Minas Gerais (Brasil), Universidad de Nueva York (UNY) y INTEL-USA., con lo que se busca promover la interacción académica. Este Círculo de Investigación en “Realidad Aumentada para fines de Tránsito Vehicular y Seguridad Ciudadana”  está vinculado al logro y mejoramiento de la seguridad ciudadana y su vez constituye una muestra del potencial tecnológico que se desarrolla en nuestra universidad como aporte a la sociedad, puede tener muchas aplicaciones como detectar acciones violentas y generar alertas en los sistemas de vigilancia con cámaras de seguridad. Esto haría más efectivo el uso de las cámaras de vigilancia, en comparación al monitoreo humano, Otras aplicaciones serían el reconocimiento de rostros para detectar a personas requisitoriadas, entre otros. En el caso del transporte mediante la identificación de las placas se puede obtener todos los datos de una unidad. No es lo único, pues a través de la obtención de las imágenes en tiempo real se puede saber cuáles son las zonas más conflictivas para el tránsito e informarlo al momento. Todo esto permitiría tener mejor información para la toma de decisiones, según indicó el docente investigador."
+  pagina: circulos-investigacion-realidad-aumentada.html
 - nombre: Desarrollo de una flota de robots terrestres semi-autónoma, controlada por una central móvil, para búsqueda de personas
   id: 3
   investigador: Dennis Barrios Aranibar
