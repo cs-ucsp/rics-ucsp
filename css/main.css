@@ -132,3 +132,12 @@ div#map{
 	height: 450px;
 	padding: 1em;
 }
+
+.box-shadow-black {
+    -webkit-box-shadow: 0 0 10px 5px rgba(0, 0, 0, .5);
+     box-shadow: 0 0 10px 5px rgba(0, 0, 0, .5);
+}
+
+.evento {
+    height: 200px;
+}
