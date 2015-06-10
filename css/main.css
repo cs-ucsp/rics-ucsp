@@ -122,6 +122,11 @@ div.footer-contact {
   border-radius: 0;
 }
 
+.banner-wide {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
