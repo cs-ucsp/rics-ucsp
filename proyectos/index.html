@@ -11,7 +11,8 @@ title: Proyectos
 
 {% for p in site.data.proyectos %}
 <a href="/proyectos/{{ p.pagina }}" title="{{ p.nombre }}">
-  <img src="/img/proyectos/proyecto-{{ p.id }}-nombre.png" alt="{{ p.nombre }}" class="img-responsive center-block" style="height: 150px;" />
+  <img src="/img/proyectos/proyecto-{{ p.id }}-nombre.png"
+  alt="{{ p.nombre }}" class="img-responsive center-block banner-thumb box-shadow-black" />
 </a>
 <hr/>
 {% endfor %}
