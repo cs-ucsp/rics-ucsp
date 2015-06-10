@@ -139,10 +139,10 @@ div#map{
 }
 
 .box-shadow-black {
-    -webkit-box-shadow: 0 0 10px 5px rgba(0, 0, 0, .5);
-     box-shadow: 0 0 10px 5px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 0 0 20px 0px rgba(0, 0, 0, .4);
+     box-shadow: 0 0 20px 0px rgba(0, 0, 0, .4);
 }
 
-.evento {
+.banner-thumb {
     height: 200px;
 }
