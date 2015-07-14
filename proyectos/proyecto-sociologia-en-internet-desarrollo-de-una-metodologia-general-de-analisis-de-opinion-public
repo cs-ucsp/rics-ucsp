@@ -1,0 +1,46 @@
+---
+layout: default
+title: "Proyecto: Sociología en Internet: Desarrollo de una metodología general de análisis de opinión pública usando herramientas de Minería de Texto (proyecto internacional entre Perú, Rusia y España"
+id: 3
+parentUri: /proyectos
+parentName: Proyectos
+---
+
+{% assign p = site.data.proyectos[page.id] %}
+
+<h1 class="text-justify">{{ p.nombre }}</h1>
+
+<img src="/img/proyectos/proyecto-{{ p.id }}.png" alt="{{ p.nombre }}"
+class="img-responsive" />
+
+<p>&nbsp;</p>
+<p class="text-justify">
+{{ p.descripcion }}
+</p>
+
+<table class="table">
+    <tr>
+    <td>
+      <strong>Financia</strong>
+    </td>
+    <td>
+      {{ p.financia }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Investigador principal</strong>
+    </td>
+    <td>
+      {{ p.investigador }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Periodo</strong>
+    </td>
+    <td>
+      {{ p.periodo }}
+    </td>
+  </tr>
+</table>
