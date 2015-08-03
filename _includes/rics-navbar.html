@@ -1,26 +1,51 @@
-            <div class="navbar-collapse collapse navbar-responsive-collapse">
-              <ul class="nav navbar-nav">
-                <li {% if page.path == "proyectos/index.html" %}class="active"{% endif %}>
-                <a href="/proyectos">Proyectos</a>
-                </li>
-                <li>
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Maestría en Ciencia de la Computación<b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="/maestriacc/presentacion.html">Presentación</a></li>
-                    <li><a href="/maestriacc/perfil-del-ingresante.html">Perfil del Ingresante</a></li>
-                    <li><a href="/maestriacc/perfil-del-egresado.html">Perfil del Egresado</a></li>
-                    <li><a href="/maestriacc/plan-de-estudios.html">Plan de estudios</a></li>
-                    <li><a href="/maestriacc/plana-docente-y-colaboradores.html">Plana docente y colaboradores</a></li>
-                    <li><a href="/maestriacc/resolucion-anr.html">Resolución ANR</a></li>
-                  </ul>
-                </li>
-                <li {% if page.path == "investigadores.html" %}class="active"{% endif %}>
-                  <a href="/investigadores.html">Investigadores</a>
-                </li>
-                <li {% if page.path == "publicaciones.html" %}class="active"{% endif %}>
-                  <a href="/publicaciones.html">Publicaciones</a>
-                </li>
-                <li {% if page.path == "eventos/index.html" %}class="active"{% endif %}><a href="/eventos/">Eventos</a></li> 
-                <li {% if page.path == "contacto.html" %}class="active"{% endif %}><a href="/contacto.html">Contacto</a></li> 
-              </ul>
-            </div>
+<!-- BEGIN #main-navigation-wrapper -->
+<div id="main-navigation-wrapper" class="container clearfix">
+<div class="menu-main-navigation-container">
+	<ul id="main-nav" class="clearfix">
+		<li class="home-menu menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item current_page_item home-3-menu-color home-3-menu-hover-color"><a href="/"><i class="icon-home"></i></a></li>
+		<li {% if page.path == "/nosotros/presentacion.html" %}class="active menu-item"{% endif %}><a href="#">Nosotros</a>
+			<ul class="sub-menu">
+				<li><a href="/nosotros/presentacion.html">Presentación</a></li>
+				<li><a href="/nosotros/declaracion-responsabilidad.html">Declaración de Responsabilidad</a></li>
+			</ul>
+		</li>
+		<li {% if page.path == "proyectos/index.html" %}class="active menu-item"{% endif %} >
+   		<a href="/proyectos/index.html">Proyectos</a>
+      </li>
+      <li {% if page.path == "/nosotros/presentacion.html" %}class="active menu-item"{% endif %}><a href='#'><span>Maestría en Ciencia de la Computación</span></a>
+      <ul class="sub-menu">
+         <li><a href="/maestriacc/presentacion.html">Presentación</a></li>
+         <li><a href="/maestriacc/perfil-del-ingresante.html">Perfil del Ingresante</a></li>
+         <li><a href="/maestriacc/perfil-del-egresado.html">Perfil del Egresado</a></li>
+         <li><a href="/maestriacc/plan-de-estudios.html">Plan de estudios</a></li>
+         <li><a href="/maestriacc/plana-docente-y-colaboradores.html">Plana docente y colaboradores</a></li>
+         <li><a href="/maestriacc/resolucion-anr.html">Resolución ANR</a></li>
+      </ul>
+  		</li>
+   	<li {% if page.path == "investigadores.html" %}class="active menu-item"{% endif %} >
+         <a href="/investigadores.html">Investigadores</a>
+   	</li>
+   	<li {% if page.path == "publicaciones.html" %}class="active menu-item"{% endif %} >
+         <a href="/publicaciones.html">Publicaciones</a>
+   	</li>
+   	<li {% if page.path == "eventos/index.html" %}class="active menu-item menu-item-p"{% endif %} ><a href="/eventos/" >Eventos</a></li> 
+   	<li {% if page.path == "contacto.html" %}class="active menu-item-c"{% endif %} class="contacto-menu menu-item menu-item-type-post_type menu-item-object-page contacto-menu-color contacto-menu-hover-color"><a href="/contacto.html">Contacto</a></li> 
+	
+	</ul>
+</div>
+	<!-- BEGIN Responsive Navigation -->
+	<div class="responsive-nav-wrapper">
+		<div id="responsive-nav">
+			<div class="text-nav">Navigation</div>
+			<div class="nav-icon"></div>
+		</div>
+
+		<div id="resp-menu"></div>
+	</div>
+	<!-- END Responsive Navigation -->
+
+
+</div>
+<!-- END #main-navigation-wrapper -->
+
+     

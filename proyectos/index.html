@@ -3,17 +3,25 @@ layout: default
 title: Proyectos de Investigación
 ---
 
-<div class="page-header">
-  <h1 id="type">{{ page.title }}</h1>
+
+<div class="row">
+	
+		<div class="page-title-box main-page-title clearfix">
+			<h1 id="type">{{ page.title }}</h1>
+		</div>
+		
+		<div class="list-image">
+		{% for p in site.data.proyectos %}
+			<a href="/proyectos/{{ p.pagina }}" title="{{ p.nombre }}">
+  				<img src="/img/proyectos/proyecto-{{ p.id }}-nombre.png" alt="{{ p.nombre }}" class="img-responsive center-block banner-thumb box-shadow-black" />
+			</a>
+			<hr/>
+		{% endfor %}
+      </div>
+	
 </div>
-<p>&nbsp;</p>
 
 
-{% for p in site.data.proyectos %}
-<a href="/proyectos/{{ p.pagina }}" title="{{ p.nombre }}">
-  <img src="/img/proyectos/proyecto-{{ p.id }}-nombre.png"
-  alt="{{ p.nombre }}" class="img-responsive center-block banner-thumb box-shadow-black" />
-</a>
-<hr/>
-{% endfor %}
+
+
 

@@ -3,20 +3,20 @@ layout: default
 title: Publicaciones
 ---
 
-          <div class="page-header">
-            <h1 id="type">{{ page.title }}</h1>
-          </div>
-          <p>&nbsp;</p>
+          <div class="page-title-box main-page-title clearfix">
+	        <h1 id="type">{{ page.title }}</h1>
+         </div>
+         
           <table class="table">
             <tr>
-              <th style="width: 15%;">Autor</th>
-              <th>Publicación</th>
+              <th style="width: 15%;"><strong>Autor</strong></th>
+              <th><strong>Publicación</strong></th>
             </tr>
             {% for pub in site.data.publicaciones %}           
             {% if pub.acreditado == "Si" %}
             <tr>
               <td>{{ pub.autor }}</td>
-              <td align="justify">{{ pub.publicacion }}</td>
+              <td style="text-align:justify;">{{ pub.publicacion }}</td>
             </tr>
             {% endif %}
             {% endfor %}

@@ -8,13 +8,15 @@ parentName: Proyectos
 
 {% assign p = site.data.proyectos[page.id] %}
 
-<h1 class="text-justify">{{ p.nombre }}</h1>
+<img src="/img/proyectos/proyecto-{{ p.id }}.png" alt="{{ p.nombre }}" class="img-responsive" />
 
-<img src="/img/proyectos/proyecto-{{ p.id }}.png" alt="{{ p.nombre }}"
-class="img-responsive" />
 
-<p>&nbsp;</p>
-<p class="text-justify">
+<div class="page-title-box main-page-title clearfix">
+<h1 style="text-align: justify;">{{ p.nombre }}</h1>
+</div>
+
+
+<p style="text-align: justify;">
 {{ p.descripcion }}
 </p>
 
