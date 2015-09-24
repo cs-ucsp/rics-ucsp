@@ -1,0 +1,266 @@
+---
+layout: default
+title: Business Model Competition
+parentUri: /eventos
+parentName: Eventos
+---
+
+
+<div class="banner-slider">
+  <img src="/img/eventos/evento-bmc.jpg" alt="{{ page.title }}"
+  class="img img-responsive center-block" />
+</div>
+<br>
+
+
+
+<div class="row ">
+	<div class="col-md-9">
+		<div class="wpb_wrapper">
+			<div class="tt-tabcolor- orbit-tabs-style-3 indentado zdAOEGNZ" id="Events-list">
+				<ul class="Events-list orbit-nav nav-pills nav-stacked" role="tablist" style="height: 276px; color: #498AB8;">	
+				</ul>
+				
+				
+    
+					<div class="orbit-tab-content">
+						<div class="tab-pane fade in active" id="descripcion" data-title="Descripción">
+						    
+						    <div class="page-title-box main-page-title clearfix">
+								<h1 id="type">The Business Model Competition - UCSP</h1>
+ 							 </div>
+						    
+        					 <p style="text-align: justify;">Es una competencia que premia a emprendedores con ideas de negocio validadas con sus clientes que está dirigida a alumnos de diferentes carreras de la Universidad Católica San Pablo y otras instituciones</p>
+        
+        					 <ul>
+				          <li style="text-align: justify;">BMC no es una competencia de plan de Negocios, más bien se centra en identificar y
+				            definir con precisión lo necesario de un nuevo emprendimiento, probando esas 
+				            hipótesis en el campo y entonces pivotar sobre la base de las lecciones aprendidas.</li>
+				          <li style="text-align: justify;">Fue creada para ayudar a estudiantes con aspiraciones de ser emprendedores, con el
+				            objetivo de incrementar las posibilidades de tener éxito al lanzar su negocio.</li>
+					  <li style="text-align: justify;">Representa un cambio radical entre el pasado y el inicio de un nuevo paradigma en
+					    emprendimiento y se cuestiona sobre porque la mayoría de planes de negocios 
+					    fracasan al primer contacto con el cliente.</li>
+				          <li style="text-align: justify;">BMC es la primera
+				            competencia de su tipo y es abierta a todos los estudiantes
+				            matriculados en una institución de educación superior
+				            acreditada.</li>
+					  <li style="text-align: justify;">BMC  premia a estudiantes que:</li>
+				          <ul>
+				            <li>Rompen ideas dentro de sus supuestos de su modelo de negocio.</li>
+				            <li>Salen a la calle y prueban sus supuestos con clientes reales.</li>
+				            <li>Aplican Customer Development y principios Lean Startup para acertar en la solución.</li>
+				            <li>Aprenden a pivotear antes de llegar al modelo de negocios validador por el cliente.</li>
+				          </ul>
+				        </ul>
+					<div class="page-title-box clearfix">
+     					<h1 class="page-title">Objetivos Específicos</h1>
+  				   </div> 
+					<ul>
+				          <li style="text-align: justify;">Ayudar a estudiantes con aspiraciones de ser emprendedor a incrementar sus
+					    posibilidades de éxito al lanzamiento de su negocio.</li>
+				          <li style="text-align: justify;">Identificar y definir con precisión las hipótesis y puntos de partida de un nuevo
+					    emprendimiento, haciendo pruebas en el campo para pivotar sobre la base de 
+					    las lecciones aprendidas.</li>
+				          </ul>
+				     
+				          <div class="page-title-box clearfix">
+     							<h1 class="page-title">Organizan</h1>
+  				   	    </div> 
+				          <img src="/img/eventos/logo-UCSP.jpg" class="img"
+				          style="height: 100px;">
+				          <img
+				          src="/img/eventos/logo-alta-el-dorado.jpg" class="img"
+				          style="height: 60px;">
+				          <img src="/img/eventos/logo-cofide.jpg" class="img"
+				          style="height: 110px;">
+				          <img src="/img/eventos/logo-KickstartPeru.jpg" class="img"
+				          style="height: 60px;">
+				          <br><br>
+				          <div class="page-title-box clearfix">
+     							<h1 class="page-title">Apoya</h1>
+  				   	    </div> 
+				          <img src="/img/eventos/logo-ArequipaValley.jpg" class="img"
+				          style="height: 100px;">
+				   </div>
+				   
+				   <div class="tab-pane fade" id="cronograma" data-title="Fechas Importantes">
+                 <div class="page-title-box main-page-title clearfix">
+								<h1 id="type">Fechas Importantes</h1>
+ 							 </div>
+        <table class="table left" border="1">
+          <tr>
+            <th><strong>Fecha</strong></th>
+            <th><strong>Evento</strong></th>
+          </tr>
+          <tr>
+            <td>9 de mayo</td>
+            <td>Lanzamiento de la competencia</td>
+          </tr>
+          <tr>
+            <td>19 de junio</td>
+            <td>II Convocatoria y Taller de
+          Formación de Equipos</td>
+          </tr>
+          <tr>
+            <td>24 de junio</td>
+            <td>Pre-inscripción para participar de los talleres</td>
+          </tr>
+          <tr>
+            <td>25 y 26 de junio</td>
+            <td>Segundo taller - Modelo Canvas</td>
+          </tr>
+          <tr>
+            <td>17 de julio</td>
+            <td>Tercer taller - Validación de modelos</td>
+          </tr>
+          <tr>
+            <td>14 de setiembre</td>
+            <td>Cierre de Inscripciones para la competencia</td>
+          </tr>
+		  <tr>
+            <td>22 de setiembre</td>
+            <td>Taller de Pitch</td>
+          </tr>
+          <tr>
+            <td>22 y 23 de octubre</td>
+            <td>Presentación y evaluación de proyectos - Primera etapa</td>
+	  </tr>
+          <tr>
+            <td>2 de noviembre</td>
+            <td>Publicación de resultados - Primera etapa</td>
+          </tr>
+          <tr>
+            <td>12 de noviembre</td>
+            <td>Semifinal</td>
+          </tr>
+          <tr>
+            <td>13 de noviembre</td>
+            <td>Final - UCSP</td>
+          </tr>
+          <tr>
+            <td>27 de noviembre</td>
+            <td>Final nacional</td>
+          </tr>
+          <tr>
+            <td>2016</td>
+            <td>Etapa internacional</td>
+          </tr>
+        </table>
+		<p style="text-align: justify;">(*) Sujeto a Modificación</p>				   
+				</div>   
+				   
+				   
+				   <div class="tab-pane fade" id="premios" data-title="Premios">
+				   <div class="page-title-box main-page-title clearfix">
+								<h1 id="type">Premios</h1>
+ 							 </div>
+        <p style="text-align: justify;">El Business Model Competition (BMC) va a otorgar $8,000.00 dólares en premios a los 
+	  ganadores de la competencia organizada por la UCSP repartidos de la siguiente manera:</p>
+        
+        <table class="table left" border="1">
+          <tr>
+            <td>1er Lugar</td>
+            <td>$ 5,000.00</td>
+          </tr>
+          <tr>
+            <td>2do Lugar</td>
+            <td>$ 2,000.00</td>
+          </tr>
+          <tr>
+            <td>3er Lugar</td>
+            <td>$ 1,000.00</td>
+          </tr>
+        </table>
+        <br>
+        <p style="text-align: justify;">Además el ganador del 1er Lugar clasifica a la final nacional de la competencia,
+	  donde competirá con los ganadores de otras universidades del país para buscar la clasificación a la 
+	  competencia internacional llevada a cabo en Estados Unidos.</p> 
+				    </div>
+				   
+				   
+				   
+				<div class="tab-pane fade" id="faq" data-title="Preguntas Frecuentes">   
+              <iframe
+        				src="https://docs.google.com/document/u/1/d/1nFCPvdWyOvz6srYBUYRP5QxbysWFRIjJge2tHYrVs6M/pub"
+       				width="800px" frameborder="0" height="840px">
+        		  </iframe>				   
+				</div> 
+
+				<div class="tab-pane fade" id="bases" data-title="Bases">   
+              		<div class="page-title-box main-page-title clearfix">
+								<h1 id="type">Bases</h1>
+ 					</div>
+ 					<p style="text-align: justify;"> Las Bases para el Concurso pueden ser descargados en el siguiente <a target="_blank" href="Business Model Competition - Bases.pdf">LINK</a>.
+ 					</p>
+				</div> 
+
+				<div class="tab-pane fade" id="material" data-title="Material de Apoyo">   
+              		<div class="page-title-box main-page-title clearfix">
+								<h1 id="type">Material de Apoyo</h1>
+ 					</div>
+ 					<p style="text-align: justify;"> El material de apoyo podrá ser descargado en los siguientes links:
+ 						<ul>
+				            <li><a target="_blank" href="Lineamientos Generales.pdf">Lineamientos Generales
+				            </a>. </li>
+				            <li><a target="_blank" href="Modelo de Negocios vs Plan de Negocios.pdf">Modelo de Negocios vs Plan de Negocios</a>.</li>
+					    <li><a target="_blank" href="Modelo Canvas.pdf">Modelo Canvas</a>.</li>  
+				          </ul>		
+ 					</p>
+				</div> 
+
+				<div class="tab-pane fade" id="equipo" data-title="Equipos Participantes">   
+              		<div class="page-title-box main-page-title clearfix">
+								<h1 id="type">Equipos Participantes</h1>
+ 					</div>
+ 					<p style="text-align: justify;"> La lista de equipos participantes se encuentran en el siguiente <a target="_blank" href="equipos/index.html">LINK</a>. Aún hay equipos que están buscando integrantes. Si estas interesado comunicate con ellos.
+ 					</p>
+				</div> 
+
+				   
+				   <div class="tab-pane fade" id="contacto" data-title="Contacto">
+				     <div class="page-title-box main-page-title clearfix">
+								<h1 id="type">Contacto</h1>
+ 							 </div>
+			        <dl>
+			          <dt>Investigador Encargado</dt>
+			          <dd>Dr. José Eduardo Ochoa Luna</dd>
+			          <dd>jeochoa@ucsp.edu.pe</dd>
+			          <dd>+51 54 988807200</dd>
+			        </dl>
+			        <dl>
+			          <dt>Director Estudiantil del Evento</dt>
+			          <dd>Filiberto Vilca Apaza</dd>
+			          <dd>fvilca@gmail.com</dd>
+			          <dd>+51 54 951266710</dd>
+			        </dl>
+			        <dl>
+			          <dt>Asistente del Centro de Investigación en Ciencia de la Computación</dt>
+			          <dd>Carlos Alberto Begazo Rosan</dd>
+			          <dd>cbegazo@ucsp.edu.pe</dd>
+			          <dd>+51 54 605630 anexo 528</dd>
+			        </dl>
+				   </div>
+				   
+				   
+            </div>
+
+  
+  	
+				
+				            
+            
+         </div>
+      </div>
+   </div>
+   <div class="col-md-3" align="center">   
+   <a href="https://docs.google.com/a/ucsp.edu.pe/forms/d/1CuqO91W3rAoEWn6gmioi_fhSdxeqi-g4CipNT5005N4/viewform"
+    target="_blank" class="btn btn-primary btn-lg" style="background:#e74c3c;border-color:#e74c3c;color:#ffffff;">Inscripción <br> para Talleres</a>
+	
+
+    <!--<a href="https://docs.google.com/forms/d/1ORtAX7AJ4B9JNQ3DQUMbo5Tw1s3X_nx4iRBBgspp0po/viewform"
+    target="_blank" class="btn btn-primary btn-lg">Inscripción <br> de Equipos</a>-->
+   </div>
+</div>					
+										
+<script type="text/javascript">jQuery(document).ready(function(){truethemes_orbit_tabs("Events-list");});</script>

@@ -785,7 +785,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 
 .banner-events
 {
-margin-top: -25px;
+margin-top: -20px;
 margin-left: -30px;
 margin-right: -30px;
 }

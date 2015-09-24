@@ -12,12 +12,13 @@ title: Eventos
 
 <div class="image-eventos">
 
-<a href="http://clei.org/clei2015" target="_blank">
+<a href="#">
 <img class="img-responsive center-block box-shadow-black banner-thumb"
-src="/img/eventos/evento-clei.jpg">
+src="/img/eventos/startup-22-setiembre.jpg">
 </a>
 
 <hr/>
+
 
 <a href="/eventos/business-model-competition/business-model-competition.html">
 <img class="img-responsive center-block box-shadow-black banner-thumb"
@@ -26,13 +27,12 @@ src="/img/eventos/evento-bmc.jpg">
 
 <hr/>
 
-<a href="#">
+<a href="http://clei.org/clei2015" target="_blank">
 <img class="img-responsive center-block box-shadow-black banner-thumb"
-src="/img/eventos/startup-22-setiembre.jpg">
+src="/img/eventos/evento-clei.jpg">
 </a>
 
 <hr/>
-
 
 <a href="/eventos/propiedad-intelectual.html">
 <img class="img-responsive center-block box-shadow-black banner-thumb"
