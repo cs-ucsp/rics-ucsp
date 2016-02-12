@@ -3,38 +3,23 @@ layout: default
 title: Investigadores
 ---
 
-<<<<<<< HEAD
 <div class="page-title-box clearfix">
 	<span id="type" class="tittle-pagina">{{ page.title }}</span>
-=======
-<div class="page-title-box main-page-title clearfix">
-	<h1 id="type">{{ page.title }}</h1>
->>>>>>> origin/master
 </div>
 
   
   {% for r in site.data.acreditados %}
       <p class="list"> 
-<<<<<<< HEAD
       	 <h4><strong>{{ r.nombre }}</strong></h4>  
-=======
-      	 <strong>{{ r.nombre }}</strong>  
->>>>>>> origin/master
      		 <ul class="list">
       	 {% for b in r.bio %}
        		 <li>{{ b }}</li>
       	 {% endfor %}
       	 </ul>
       </p>
-<<<<<<< HEAD
       <p class="list">Línea de investigación: {{ r.linea }}<br />
       Correo electrónico: <a href="{{ r.email }}">{{ r.email }}</a><br />
       <a href="{{ r.cv }}" target="_blank" alt="CV {{ r.investigador }}">Ver Curriculum Vitae</a></p>
-=======
-      <p class="list">Línea de investigación: {{ r.linea }}</p>
-      <p class="list">   Correo electrónico: <a href="{{ r.email }}">{{ r.email }}</a></p>
-      <p class="list">   <a href="{{ r.cv }}" target="_blank" alt="CV {{ r.investigador }}">Ver Curriculum Vitae</a></p>
->>>>>>> origin/master
       <hr>
 
   {% endfor %}

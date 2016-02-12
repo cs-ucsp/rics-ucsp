@@ -105,13 +105,10 @@ div.footer-contact {
     margin-right: 0px;
 }
 
-<<<<<<< HEAD
 div.header-title {
     text-align: right;
 }
 
-=======
->>>>>>> origin/master
 /*****************************************************************************/
 /*
 /* Site
@@ -129,20 +126,11 @@ div.header-title {
   border-radius: 0;
 }
 
-<<<<<<< HEAD
-=======
-.banner-wide {
-    margin-left: -15px;
-    margin-right: -15px;
-}
-
->>>>>>> origin/master
 /*****************************************************************************/
 /*
 /* Posts
 /*
 /*****************************************************************************/
-<<<<<<< HEAD
 
 .share-page {
     text-align: center;
@@ -173,19 +161,4 @@ td.semanaFila {
 td.semanaTexto {
     width: 140px;
     color: #2E8DA3;
-=======
-div#map{
-	width: 100%;
-	height: 450px;
-	padding: 1em;
-}
-
-.box-shadow-black {
-    -webkit-box-shadow: 0 0 20px 0px rgba(0, 0, 0, .4);
-     box-shadow: 0 0 20px 0px rgba(0, 0, 0, .4);
-}
-
-.banner-thumb {
-    height: 200px;
->>>>>>> origin/master
 }
