@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="page-title-box clearfix">
+      <span class="tittle-sup">{{ page.title }}</span>
+</div>
+
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post" style="text-align:justify;">
+{{ content }}
+</div>
+
+{% include share-page.html %}

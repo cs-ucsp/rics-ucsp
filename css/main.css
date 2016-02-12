@@ -105,6 +105,13 @@ div.footer-contact {
     margin-right: 0px;
 }
 
+<<<<<<< HEAD
+div.header-title {
+    text-align: right;
+}
+
+=======
+>>>>>>> origin/master
 /*****************************************************************************/
 /*
 /* Site
@@ -122,16 +129,51 @@ div.footer-contact {
   border-radius: 0;
 }
 
+<<<<<<< HEAD
+=======
 .banner-wide {
     margin-left: -15px;
     margin-right: -15px;
 }
 
+>>>>>>> origin/master
 /*****************************************************************************/
 /*
 /* Posts
 /*
 /*****************************************************************************/
+<<<<<<< HEAD
+
+.share-page {
+    text-align: center;
+    background: $secondary-color;
+    color: $light-color;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $spacing-unit 0;
+
+    a {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}
+
+
+
+td.semanaFila {
+    background-color: #2E8DA3;
+    color: white;
+}
+
+td.semanaTexto {
+    width: 140px;
+    color: #2E8DA3;
+=======
 div#map{
 	width: 100%;
 	height: 450px;
@@ -145,4 +187,5 @@ div#map{
 
 .banner-thumb {
     height: 200px;
+>>>>>>> origin/master
 }

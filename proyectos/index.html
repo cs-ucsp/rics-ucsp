@@ -6,18 +6,22 @@ title: Proyectos de Investigación
 
 <div class="row">
 	
-		<div class="page-title-box main-page-title clearfix">
-			<h1 id="type">{{ page.title }}</h1>
-		</div>
+	<div class="page-title-box clearfix">
+      	<span class="tittle-pagina">Proyectos de investigación</span>
+    </div>
 		
-		<div class="list-image">
+	<div align="center">	
 		{% for p in site.data.proyectos %}
 			<a href="/proyectos/{{ p.pagina }}" title="{{ p.nombre }}">
-  				<img src="/img/proyectos/proyecto-{{ p.id }}-nombre.png" alt="{{ p.nombre }}" class="img-responsive center-block banner-thumb box-shadow-black" />
+  				<img src="/img/proyectos/proyecto-{{ p.id }}-nombre.png" alt="{{ p.nombre }}" class="img-responsive img-rounded img-rics" style=" box-shadow:0 0 20px 0px rgba(0, 0, 0, .4);" />
 			</a>
+            <br />
 			<hr/>
+            <br />
 		{% endfor %}
-      </div>
+    </div>
+<!--      <div class="list-image">
+      </div>-->
 	
 </div>
 

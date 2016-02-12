@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+autor,publicacion,acreditado,
+=======
 autor,"publicacion",acreditado,
+>>>>>>> origin/master
 Alex Cuadros,"Cuadros-Vargas, A., Nonato, L.G., Pascucci, V., Combinatorial Laplacian image cloning. Proceedings - 24th SIBGRAPI Conference on Graphics, Patterns and Images, art. no. 6134737, pp. 236-241. 2011 ",Si,
 Alex Cuadros,"Lizier, M.A.S., Martins Jr., D.C., Cuadros-Vargas, A.J., Cesar Jr., R.M., Nonato, L.G., Generating segmented meshes from textured color images. Journal of Visual Communication and Image Representation, 20 (3), pp. 190-203. 2009.",Si,
 Alex Cuadros,"Cuadros-Vargas, A.J., Lizier, M., Minghim, R., Nonato, L.G., Generating segmented quality meshes from images. Journal of Mathematical Imaging and Vision, 33 (1), pp. 11-23. 2009.",Si,
@@ -6,6 +10,8 @@ Alex Cuadros,"Cuadros-Vargas, A.J., Nonato, L.G., Tejada, E., Ertl, T., Generati
 Alex Cuadros,"Cuadros-Vargas, A.J., Gerhardinger, L.C., De Castro, M., Neto, J.B., Nonato, L.G., Improving 2D mesh image segmentation with Markovian Random Fields. Brazilian Symposium of Computer Graphic and Image Processing, art. no. 4027052, pp. 61-68. 2006.",Si,
 Alex Cuadros,"Cuadros-Vargas, A.J., Nonato, L.G., Minghim, R., Etiene, T., Imesh: An image based quality mesh generation technique. Brazilian Symposium of Computer Graphic and Image Processing, 2005, art. no. 1599122, pp. 341-348. 2005.",Si,
 Alex Cuadros,"Nonato, L.G., Cuadros-Vargas, A.J., Minghim, R., De Oliveira, M.C.F., Beta-connection: Generating a family of models from planar cross sections. ACM Transactions on Graphics, 24 (4), pp. 1239-1258. 2005.",Si,
+<<<<<<< HEAD
+=======
 Ernesto Cuadros,"Sahami, M., Roach, S., Cuadros-Vargas, E., Hawthorne, E.K., Kumar, A., LeBlanc, R., Reed, D., Seker, R. ACM/IEEE-CS computer science curricula 2013: Implementing the final report, SIGCSE 2014, Proceedings of the 45th ACM Technical Symposium on Computer Science Education, pp. 175-176, 2014.",Si,
 Ernesto Cuadros,"Pears, A., Clear, A., Cassel, L., Cuadros-Vargas, E., Dagiene, V., Laxer, C., ITiCSE: The next decade, ITICSE 2014 - Proceedings of the 2014 Innovation and Technology in Computer Science Education Conference, p. 323. DOI: 10.1145/2591708.2617812, 2014. ",Si,
 Ernesto Cuadros,"Cuadros-Vargas, E., Silva-Sprock, A., Delgado-Castillo, D., Hernández-Bieliukas, Y., Collazos, C., Evolution of the Computing Curricula for Computer Science in Latin America 2013, Proceedings of the 2013 39th Latin American Computing Conference, CLEI 2013, art. no. 6670628, DOI: 10.1109/CLEI.2013.6670628, 2013.",Si,
@@ -99,3 +105,4 @@ Yessenia Yari,"Yari, Y., Scharcanski, J., An approach for fast human head pose e
 Yessenia Yari,"Scharcanski, J., De Oliveira, A.B., Cavalcanti, P.G., Yari, Y., A particle-filtering approach for vehicular tracking adaptive to occlusions. IEEE Transactions on Vehicular Technology, 60 (2), art. no. 5669358, pp. 381-389. 2011.",No,
 Yessenia Yari,"Yari, Y., Cavalcanti, P.G., Scharcanski, J., Estimation of the head pose based on monocular images. International Conference Image and Vision Computing New Zealand, art. no. 6148835, 2010.",No,
 Yessenia Yari,"Cavalcanti, P.G., Yari, Y., Scharcanski, J., Pigmented skin lesion segmentation on macroscopic images. International Conference Image and Vision Computing New Zealand, art. no. 6148845, 2010.",No,
+>>>>>>> origin/master
