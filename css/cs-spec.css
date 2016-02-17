@@ -322,17 +322,28 @@ fieldset[disabled] .navbar-inverse-top .btn-link:focus {
 	.img-rics{
 		width: 90%;
 	}
+	
 }
 
 @media (min-width: 761px) {
 	.img-rics{
 		width: 70%;
 	}
+	.social-links{
+		display: none;
+	}
 }
 
 .banner-rics
 {
-margin-top: -25px;
+margin-top: -15px;
+margin-left: -30px;
+margin-right: -30px;
+}
+
+.proyect-rics
+{
+margin-top: -15px;
 margin-left: -30px;
 margin-right: -30px;
 }
