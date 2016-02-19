@@ -322,6 +322,9 @@ fieldset[disabled] .navbar-inverse-top .btn-link:focus {
 	.img-rics{
 		width: 90%;
 	}
+	.social-links{
+		display: inline-block;
+	}
 	
 }
 
