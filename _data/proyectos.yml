@@ -1,5 +1,14 @@
+- nombre: Generación de modelos tridimensionales de huesos humanos para fines de exploración y cuantificación ósea
+  id: 9
+  investigador: Alex Cuadros Vargas
+  financia: FONDECYT
+  inicio: 19/01/2016
+  fin: 18/01/2018
+  periodo: 2016-2018
+  descripcion: "En un centro de imágenes médicas, en el caso de pacientes con síntomas de osteoporosis, los médicos suelen indicar análisis de Tomografía y Densitometría, para poder dar un diagnóstico adecuado. Esto implica una doble irradiación, altamente no deseada para un paciente. Por otro lado, el software actual de un tomógrafo convencional permite seleccionar regiones rectangulares, sobre cortes bidimensionales, en las cuales la densidad ósea puede ser calculada localmente. De esta forma, el médico especialista puede sondear manualmente diferentes regiones y, basado en su experiencia, emite su diagnóstico. Por otro lado, el personal médico especializado indica que sería muy útil poder conocer la densitometría de un hueso completo (3D) por separado, pues esto daría origen a diagnósticos más precisos. Sin embargo, esto no es posible, pues el procedimiento actual, basado en el análisis de regiones rectangulares, puede involucrar otros huesos y órganos cercanos, distorsionando el cálculo. Concretamente, este proyecto propone la creación de modelos geométricos tridimensionales, a partir de tomografías, donde se distinguida cada hueso por separado. Siendo así, se propone calcular la densitometría de cada hueso por separado, obteniendo resultados equivalentes al de un densitómetro, sin embargo, de forma focalizada. Como consecuencia, el proceso propuesto pretende evitar el uso de un densitómetro, por ende evitar su irradiación, y obtener resultados equivalentes a partir de imágenes."
+  pagina: implementacion-computacional-sistema-evolutivo.html
 - nombre: Modelo e implementación Computacional de un sistema evolutivo de optimización de edificaciones en Arquitectura Sostenible con soporte a cambio climático
-  id: 1
+  id: 8
   investigador: Yván Túpac Valdivia
   financia: FONDECYT
   inicio: 3/02/2015
@@ -8,7 +17,7 @@
   descripcion: "Este proyecto tiene como objetivo modelar e implementar computacionalmente un sistema de evaluación y optimización que, utilizando criterios de diseño en edificaciones sostenibles y soporte a cambio climático, ayude al usuario o arquitecto a (1) obtener una nota de la sostenibilidad de su propuesta arquitectónica como (2) apoyarlo a optimizarla progresivamente mediante un algoritmo de busqueda evolutiva, tal que logre mejorar sus evaluaciones de sostenibilidad, tomando en cuente las especificaciones regionales (ambiente, suelo, clima, materiales constructivos), contextos locales (reglamentos, cultura, etc.), y que además de la sostenibilidad, que la edificacion tenga capacidad de adaptación al cambio climático. En la actualidad, al menos en el Perú no se cuenta con un sistema que de manera automatizada y computacional, facilite los cálculos necesarios para este análisis y aún menos que, automáticamente, a partir de una propuesta arquitectónica previa, vaya modificándola progresivamente tal que cada vez se ajuste de mejor forma a los criterios de sostenibilidad definidos, en este caso apoyados por el SB Method (http://www.iisbe.org/sbmethod) y SBTool y también considerando el contexto y especificaciones locales."
   pagina: implementacion-computacional-sistema-evolutivo.html
 - nombre: Círculos de Investigación en Realidad Aumentada para fines de Tránsito de Vehículos y Seguridad Ciudadana
-  id: 2
+  id: 7
   investigador: Alex Cuadros Vargas
   financia: FONDECYT-CONCYTEC
   inicio: 24/11/2014
@@ -17,7 +26,7 @@
   descripcion: "Este proyecto involucra a las universidades nacionales: Universidad Nacional de  San Agustín (UNSA), la Universidad Nacional de Ucayali (UNU), la Universidad Católica San Pablo (UCSP), y a FONDECYT/CONCYTEC. Además cuenta con el apoyo y asesoramiento de investigadores de la Universidad de Sao Paulo (Brasil), Universidad de Minas Gerais (Brasil), Universidad de Nueva York (UNY) y INTEL-USA., con lo que se busca promover la interacción académica. Este Círculo de Investigación en “Realidad Aumentada para fines de Tránsito Vehicular y Seguridad Ciudadana”  está vinculado al logro y mejoramiento de la seguridad ciudadana y su vez constituye una muestra del potencial tecnológico que se desarrolla en nuestra universidad como aporte a la sociedad, puede tener muchas aplicaciones como detectar acciones violentas y generar alertas en los sistemas de vigilancia con cámaras de seguridad. Esto haría más efectivo el uso de las cámaras de vigilancia, en comparación al monitoreo humano, Otras aplicaciones serían el reconocimiento de rostros para detectar a personas requisitoriadas, entre otros. En el caso del transporte mediante la identificación de las placas se puede obtener todos los datos de una unidad. No es lo único, pues a través de la obtención de las imágenes en tiempo real se puede saber cuáles son las zonas más conflictivas para el tránsito e informarlo al momento. Todo esto permitiría tener mejor información para la toma de decisiones, según indicó el docente investigador."
   pagina: circulos-investigacion-realidad-aumentada.html
 - nombre: Desarrollo de una flota de robots terrestres semi-autónoma, controlada por una central móvil, para búsqueda de personas
-  id: 3
+  id: 6
   investigador: Dennis Barrios Aranibar
   financia: FINCYT
   inicio: 22/11/2013
@@ -26,7 +35,7 @@
   descripcion: "El Perú es un país propenso a desastres naturales y la geografía nacional es accidentada, por lo cual en los últimos tiempos se han registrado sonados casos de personas desaparecidas en nuestra cordillera; en este sentido, es necesario desarrollar tecnología que pueda asistir las tareas de búsqueda y rescate de personas; agilizando los procesos mencionados en pro del bienestar y la integridad de las personas afectadas. En este sentido, el laboratorio de robótica y visión computacional de la UCSP, en su preocupación por el bienestar y la integridad del ser humano, presenta este proyecto para la creación de una flota de robots semiautónoma con capacidades heterogéneas para apoyar en tareas de búsqueda y rescate. La flota en mención estará compuesta por 4 robots móviles (uno de ellos importado para tal propósito, y otros 3 creados durante el proyecto), heterogéneos en sus capacidades. Además, la flota de robots será controlada por sus pares humanos a través de dispositivos móviles como smartphones y tablets; de la misma forma, todo el equipo de rescate podrá ser monitoreado remotamente en un sistema web con información geográfica. Es importante resaltar, que este proyecto servirá para formar profesionales capaces de desarrollar tecnología robótica y de tele operación de robots que no solo podrá ser utilizado en tareas de rescate, sino también en la creación de robots para la industria, para el hogar, lo que ayudará en cimentar una futura industria de la robótica peruana."
   pagina: proyecto-desarrollo-de-una-flota-de-robots-terrestres-semi-autonoma-controlada-por-una-central-movil-para-busqueda-de-personas.html
 - nombre: "Sociología en Internet: Desarrollo de una metodología general de análisis de opinión pública usando herramientas de Minería de Texto (Proyecto Internacional entre Perú, Rusia y España)"
-  id: 4
+  id: 5
   investigador: Javier Tejada Cárcamo
   financia: FINCYT
   inicio: 5/11/2013
@@ -35,7 +44,7 @@
   descripcion: "Actualmente, las Ciencias de Computación y las tecnologías de Inteligencia Artificial proponen bastante enfoques metodológicos, métodos matemáticos y software para analizar datos de Internet. Sin embargo, la mayoría de ellos no se dedican a analizar problemas típicos sociológicos (En Sociología, el análisis de redes sociales no está orientado a Internet). Algunos de los métodos y software existentes analizan problemas muy prácticos como religión o terrorismo. Otros se dedican a construir modelos matemáticos y desarrollo de software para la construcción de recursos léxicos, como tesauros u ontologías. Por estas razones, todo esto no debe ser considerado solamente como unas herramientas particulares, sino como una metodología general de resolver problemas sociológicos. Las comunidades de científicos sociales, como sociólogos o especialistas en medios de comunicación, no conocen áreas computacionales, tales como Procesamiento de Lenguaje Natural, Inteligencia Artificial, etc. Ellos usan instrumentos tradicionales de investigación; los cuales no son aplicables para estudiar el nuevo fenómeno social existente Internet. Los sociólogos generalmente usan Internet para obtener estadísticas sobre opiniones de problemas específicos (elecciones, economía, relaciones internacionales, etc.). Los especialistas en medios de comunicación estudian los efectos que tienen los periódicos electrónicos, correos sobre opiniones específicas. Todo esto es solamente un barómetro de procesos sociales."
   pagina: proyecto-sociologia-en-internet-desarrollo-de-una-metodologia-general-de-analisis-de-opinion-publica-usando-herramientas-de-mineria-de-texto-proyecto-internacional-entre-peru-rusia-y-espana.html
 - nombre: Desarrollo de un kit de robótica educativo, con mejores características tecnológicas y versatilidad de materiales y con facilidad para el soporte técnico
-  id: 5
+  id: 4
   investigador: Dennis Barrios Aranibar
   financia: FINCYT-FIDECOM
   inicio: 20/06/2013
@@ -44,7 +53,7 @@
   descripcion: "Este proyecto propone la creación de un nuevo kit de robótica que contemple las mejores características de sus competidores internacionales, y además mejore algunas de ellas como el lenguaje de programación y la diversidad de piezas de construcción. Un kit de robótica en el mercado viene usualmente con un conjunto de piezas de construcción predefinidas (de un mismo material), solo es compatible con sensores y actuadores especialmente diseñados para el kit y se programa en un lenguaje de programación basado en bloques. Sin embargo la experiencia en robótica pedagógica nos ha demostrado que esto no es suficiente, por este motivo proponemos crear un kit con un conjunto de piezas heterogéneas (con materiales existentes a nivel nacional) y compatible con una amplia gama de sensores y actuadores, además de desarrollar una plataforma de programación basada en niveles y extensible."
   pagina: proyecto-desarrollo-de-un-kit-de-robotica-educativo-con-mejores-caracteristicas-tecnologicas-y-versatilidad-de-materiales-y-con-facilidad-para-el-soporte-tecnico.html
 - nombre: Desarrollo de un Sistema Inteligente de Supervisión Remota para monitoreo de signos vitales en pacientes de riesgos y personas interesadas en cuidar su salud
-  id: 6
+  id: 3
   investigador: Javier Tejada Cárcamo
   financia: FINCYT-FIDECOM
   inicio: 3/03/2013
@@ -53,7 +62,7 @@
   descripcion: "El proyecto plantea el desarrollo de un Sistema de Tele-Asistencia para personas dependientes y discapacitadas, el mismo que monitorea los siguientes signos vitales: Pulso, presión arterial, frecuencia respiratoria y temperatura. Estos signos vitales cambian con la edad del paciente, su sexo, el peso actual, la actividad física que realiza y las enfermedades que tengan. Los familiares del paciente podrán ver y analizar estos signos en una plataforma web. El Sistema también proporciona un módulo de alarmas, que enviará correos electrónicos a los familiares o medio del paciente (previamente registrado) cuando el registro de signos vitales exceda el límite saludable permitido para cada paciente."
   pagina: desarrollo-de-un-sistema-inteligente-de-supervision-remota-para-monitoreo-de-signos-vitales-en-pacientes-de-riesgos-y-personas-interesadas-en-cuidar-su-salud.html
 - nombre: LATIN – Latin American Open Textbooks Initiative
-  id: 7
+  id: 2
   investigador: Ernesto Cuadros Vargas
   financia: Fondos de la Unión Europea
   inicio: 30/12/2012
@@ -62,7 +71,7 @@
   descripcion: "El proyecto busca desarrollar una plataforma concurrente y compartida para que los usuarios puedan editar libros abiertos a los educandos de bajos recursos económicos para que estos tengan acceso a la educación, así como para reducir la tasa de abandono debido a razones financieras. Este objetivo se alcanzará a través de la reducción o eliminación del costo de los libros de texto necesarios que a veces pueden representar una parte significativa de los ingresos de una familia de salario mínimo. La iniciativa se propone en este proyecto dará lugar a la creación colaborativa regional de libros de texto que pueden ser libremente y legalmente hechos para poder copiar, imprimir, modificar y distribuir a los estudiantes. Estos libros tienen la ventaja adicional de que son de fácil actualización los cuales estan en un lenguaje que el estudiante pueda comprender fácilmente."
   pagina: latin-latin-american-open-textbooks-initiative.html
 - nombre: Sistema Híbrido Inteligente del análisis, procesamiento, visualización y exploración de datos geo-referenciados, referentes al monitoreo de unidades de transporte interprovincial de pasajeros, usando técnicas de minería de datos y visualización
-  id: 8
+  id: 1
   investigador: Javier Tejada Cárcamo
   financia: FINCYT-FIDECOM
   inicio: 7/07/2012
