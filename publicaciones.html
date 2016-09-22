@@ -9,16 +9,22 @@ title: Publicaciones
          
           <table class="table table-hover">
             <tr class="active">
-              <th width="20%"><h4><strong>Autor</strong></h4></th>
-              <th width="80%"><h4><strong>Publicación</strong></h4></th>
+              <th><h4><strong>Autor</strong></h4></th>
+              <th width="20%"><h4><strong>Co-Autores</strong></h4></th>
+              <th width="30%"><h4><strong>Publicación</strong></h4></th>
+              <th width="30%"><h4><strong>Revista / Congreso</strong></h4></th>
+              <!--<th><h4><strong>Páginas</strong></h4></th>-->
+              <th><h4><strong>Año</strong></h4></th>
             </tr>
-            {% for pub in site.data.publicaciones %}           
-            {% if pub.acreditado == "Si" %}
+            {% for pub in site.data.publicaciones2016 %}           
             <tr>
-              <td>{{ pub.autor }}</td>
-              <td style="text-align:justify;">{{ pub.publicacion }}</td>
+              <td style="vertical-align:middle;">{{ pub.Autor }}</td>
+              <td style="text-align:justify; vertical-align:middle;">{{ pub.CoAutores }}</td>
+              <td style="text-align:justify; vertical-align:middle;">{{ pub.Publicacion }}</td>
+              <td style="text-align:justify; vertical-align:middle;">{{ pub.Revista }}</td>
+              <!--<td style="text-align:justify;">{{ pub.Paginas }}</td>-->
+              <td style="text-align:justify; vertical-align:middle;">{{ pub.Anho }}</td>
             </tr>
-            {% endif %}
             {% endfor %}
           </table>
           
