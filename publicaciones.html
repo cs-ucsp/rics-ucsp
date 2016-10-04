@@ -7,16 +7,30 @@ title: Publicaciones
 	        <span class="tittle-pagina">{{ page.title }}</span>
          </div>
          
+          {% for pub in site.data.year-publicaciones %}
+          
+          {% if pub.Anho > "2010" %}          
+          
+          <h3>{{ pub.Anho }}</h3>
+          
+          
           <table class="table table-hover">
-            <tr class="active">
-              <th><h4><strong></strong></h4></th>
-            </tr>
-            {% for pub in site.data.publicaciones2016 %}           
+            {% for grup in site.data.publicaciones2016 %}  
+            {% if grup.Anho == pub.Anho %}
+            {% if grup.Ucsp == "SI" %}            
             <tr>
-              <td style="text-align:justify; vertical-align:middle;">{{ pub.Publicacion }}</td>
+              <td style="text-align:justify; vertical-align:middle;">
+              		<div style="font-size: 18px; color: #032F55;"><a style="color: #032F55;" href={{grup.Link}} target="_blank">{{ grup.Articulo }}</a></div>
+                  <div style="font-size: 16px;">{{ grup.Revista }}</div>
+                  <div style="font-size: 14px;">{{ grup.Autores }}</div>
+              </td>
             </tr>
+            {% endif %}
+            {% endif %}
             {% endfor %}
           </table>
+          {% endif %}
+          {% endfor %}
           
 <br />
 <br />
