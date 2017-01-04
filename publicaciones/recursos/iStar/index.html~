@@ -1,0 +1,52 @@
+---
+layout: default
+title: "iStar (i*): An interactive star coordinates approach for high-dimensional data exploration"
+parentUri: /publicaciones
+parentName: Publicaciones
+---
+
+<div class="page-title-box clearfix">
+	<span class="tittle-pagina">{{ page.title }}</span>
+</div>
+
+<div align="center">
+
+<table class="table table-hover">
+  <tbody><tr> 
+    <td align="center"> 
+    <div align="center">	
+	 <b>Computers & Graphics, November 2016</b><br>
+    <p>
+    <a href="https://www.researchgate.net/profile/Germain_Garcia">Germain Garcia Zanabria</a>, <a href="http://conteudo.icmc.usp.br/pessoas/gnonato/">Luis Gustavo Nonato</a>, <a href="https://sites.google.com/site/erickgomeznieto/">Erick Gomez-Nieto</a>
+    </p>
+    <img class="img-responsive img-rounded img-rics" src="abstract2.png"><br>
+    <h4><b>Abstract</b></h4><p style="text-align: justify;">Star Coordinates is an important visualization method 
+    able to reveal patterns and groups from multidimensional data while still showing the impact of data 
+    attributes in the formation of such patterns and groups. Despite its usefulness, Star Coordinates bears 
+    limitations that impair its use in several scenarios. For instance, when the number of data dimensions is 
+    high, the resulting visualization becomes cluttered, hampering the joint analysis of attribute importance 
+    and group/pattern formation. In this paper, we propose a novel method that renders Star Coordinates a 
+    feasible alternative to analyze high-dimensional data. The proposed method relies on a clustering 
+    mechanism to group attributes in order to mitigate visual clutter. Clustering can be performed 
+    automatically as well as interactively, allowing the analysis of how particular groups of attributes 
+    impact on the radial layout, thus assisting users in the understanding of data. The effectiveness of 
+    our approach is shown through a set of experiments and case studies, which attest its usefulness in 
+    practical applications.</p>
+   
+   <div align="left"> 
+   <p><span class="smallheader"><b>Citation</b></span> (<a href="scholar.bib.txt" target="_blank">BibTeX</a>)</p><p>Received 1 March 2016, Revised 8 August 2016, Accepted 16 August 2016, Available online 13 September 2016.</p><p><span class="smallheader"><b>Download</b></span><br>  
+	<img src="bullet.png" alt="" width="4" align="absmiddle" height="4">&nbsp;  <a href="paper.pdf" target="_blank">Paper</a> (3 Mb)<br>
+	<img src="bullet.png" alt="" width="4" align="absmiddle" height="4">&nbsp;  <a href="https://www.youtube.com/watch?v=9U487xShhUs&t=0s" target="_blank">Video</a> (Youtube)<br>
+	<img src="bullet.png" alt="" width="4" align="absmiddle" height="4">&nbsp;  <a href="code/index.html" target="_blank">Code</a> <br>
+	<img src="bullet.png" alt="" width="4" align="absmiddle" height="4">&nbsp;  <a href="datasets.rar">DataSets</a> (9 Mb)<br>
+	<img src="bullet.png" alt="" width="4" align="absmiddle" height="4">&nbsp;  <a href="examples.rar">Examples</a> (5 Kb)
+	</p>
+	</div>
+	 </div>
+	</td> 
+  </tr> 
+</tbody></table>
+
+
+
+</div>

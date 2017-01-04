@@ -1,0 +1,9 @@
+@article{zanabria2016istar,
+  title={iStar (i*): An interactive star coordinates approach for high-dimensional data exploration},
+  author={Zanabria, Germain Garcia and Nonato, Luis Gustavo and Gomez-Nieto, Erick},
+  journal={Computers \& Graphics},
+  volume={60},
+  pages={107--118},
+  year={2016},
+  publisher={Elsevier}
+}
