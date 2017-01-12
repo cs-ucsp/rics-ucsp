@@ -1,3 +1,26 @@
+/*Menu lateral*/
+.lateral{
+list-style:none;
+}
+
+.lateral-ul{
+padding: 0px;
+}
+/*Boton de preinscripción*/
+.flotante {
+    display:scroll;
+        position:fixed;
+        bottom:120px;
+        right:0px;
+}
+.flotante1 {
+    display:scroll;
+        position:fixed;
+        bottom:60px;
+        right:0px;
+}
+/*********/
+
 .tittle-sup {
     color: #363D40;
     display: inline-block;
