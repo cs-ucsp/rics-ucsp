@@ -6,6 +6,9 @@ list-style:none;
 .lateral-ul{
 padding: 0px;
 }
+.lateral-ul-ul{
+padding: 20px;
+}
 
 .lateral-a{
 color:#fff;
