@@ -10,6 +10,7 @@ description: El Programa de Maestría en Ciencia de la Computación de la Univer
 
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 
+
 <div class="row">
 
 	<div class="banner-rics">
@@ -104,6 +105,7 @@ description: El Programa de Maestría en Ciencia de la Computación de la Univer
 </div>
 <div class="col-lg-3 col-md-3">
 <br />
+<br />
  <div class="alert alert-warning" role="alert">
  <table width="100%">
   <tbody>
@@ -154,6 +156,23 @@ description: El Programa de Maestría en Ciencia de la Computación de la Univer
 
 
 <div id="fb-root"></div>
+<script  type="text/javascript">
+  $(document).ready(function() {
+        
+// Javascript to enable link to tab
+var hash = document.location.hash;
+var prefix = "tab_";
+if (hash) {
+    $('.nav-tabs a[href='+hash.replace(prefix,"")+']').tab('show');
+} 
+
+// Change hash for page-reload
+$('.nav-tabs a').on('shown.bs.tab', function (e) {
+    window.location.hash = e.target.hash.replace("#", "#" + prefix);
+});
+        
+});
+</script>
 
 <script>(function(d, s, id) {
 
@@ -168,4 +187,5 @@ description: El Programa de Maestría en Ciencia de la Computación de la Univer
   fjs.parentNode.insertBefore(js, fjs);
 
 }(document, 'script', 'facebook-jssdk'));</script>
+
 

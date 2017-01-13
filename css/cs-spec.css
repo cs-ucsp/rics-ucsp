@@ -6,6 +6,11 @@ list-style:none;
 .lateral-ul{
 padding: 0px;
 }
+
+.lateral-a{
+color:#fff;
+}
+
 /*Boton de preinscripción*/
 .flotante {
     display:scroll;
