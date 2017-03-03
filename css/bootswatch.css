@@ -3973,7 +3973,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
     margin: 0;
   }
-@media (min-width: 768px) {
   .navbar-nav-head {
     float: right!important;
     margin: 0;
