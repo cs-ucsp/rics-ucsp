@@ -29,6 +29,30 @@
   linea: Robótica
   email: dbarrios@ucsp.edu.pe
   cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=10065
+- nombre: Dr. Jose Eduardo Ochoa Luna
+  bio:    
+    - Dr. Ciencia de la Computación, Universidade de Sao Paulo, Brasil, 2011.
+    - Mag. Ciencia de la Computación, Universidade Federal de Mato Grosso do Sul - UFMS, Brasil, 2004.
+    - Prof. Bachiller en Ingeniería de Sistemas, Universidad Nacional San Agustín, Perú, 2000.
+  linea: Inteligencia Artificial
+  email: jeochoa@ucsp.edu.pe
+  cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11141
+- nombre: Dr. Manuel Loaiza Fernández
+  bio:  
+    - Dr. Ciencia de la Computación, Pontificia Universidad Católica de Rio de Janeiro, Brasil, 2009.
+    - Mag. Ciencia de la Computación, Pontificia Universidad Católica de Rio de Janeiro, Brasil, 2005.
+    - Prof. Bachiller en Ingeniería de Sistemas, Universidad Nacional de San Agustín, Perú, 2002.
+  linea: Imágenes, Visión Computacional, Computación Gráfica
+  email: meloaiza@ucsp.edu.pe
+  cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=54641
+- nombre: Dr. Erick Gomez Nieto
+  bio:  
+    - Dr. Ciencia de la Computación, ICMC-USP, Brasil, 2017.
+    - Mag. Ciencia de la Computación, ICMC-USP, Brasil, 2012.
+    - Prof. Ingeniero Informático, Universidad Católica San Pablo, Perú, 2012.
+  linea: Visualización, Visual Analytics, Computer Graphics
+  email: emgomez@ucsp.edu.pe
+  cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17384 
 - nombre: Dr. Juan Carlos Gutiérrez Cáceres
   bio:
     - Dr. Ciencia de la Computación, Universidad Nacional de San Agustín, Perú, 2013.
@@ -43,14 +67,6 @@
   linea: Minería de Datos
   email: jtejadac@ucsp.edu.pe
   cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=2415
-- nombre: Dr. Jose Eduardo Ochoa Luna
-  bio:    
-    - Dr. Ciencia de la Computación, Universidade de Sao Paulo, Brasil, 2011.
-    - Mag. Ciencia de la Computación, Universidade Federal de Mato Grosso do Sul - UFMS, Brasil, 2004.
-    - Prof. Bachiller en Ingeniería de Sistemas, Universidad Nacional San Agustín, Perú, 2000.
-  linea: Inteligencia Artificial
-  email: jeochoa@ucsp.edu.pe
-  cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11141
 - nombre: Dr. Raquel Patiño Escarcina
   bio:    
     - Dr. Ingeniería Eléctrica y de Computación, Universidade Federal do Rio Grande do Norte, Brasil, 2009.
@@ -67,6 +83,13 @@
   linea: Visualización Científica
   email: ana.maria.cuadros@ucsp.edu.pe
   cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=14818
+- nombre: Mag. Graciela Lecireth Meza Lovón
+  bio:
+    - Mag. Ciencia de la Computación, UFMS-MS, Brasil, 2007.
+    - Prof. Bachiller en Ingeniería Informática, Universidad Católica San Pablo, Perú, 2004.
+  linea: Imágenes e Inteligencia Artificial
+  email: gmezal@ucsp.edu.pe
+  cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11716
 - nombre: Mag. Alvaro Henry Mamani Aliaga
   bio:
     - Mag. Computer Science, , Brasil.
@@ -88,13 +111,6 @@
   linea: Visualización Científica
   email: frizzi.sanroman@ucsp.edu.pe
   cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=14597
-- nombre: Mag. Graciela Lecireth Meza Lovón
-  bio:
-    - Mag. Ciencia de la Computación, UFMS-MS, Brasil, 2007.
-    - Prof. Bachiller en Ingeniería Informática, Universidad Católica San Pablo, Perú, 2004.
-  linea: Imágenes e Inteligencia Artificial
-  email: gmezal@ucsp.edu.pe
-  cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11716
 - nombre: Mag. Julio Omar Santisteban Pablo
   bio:
     - Mag. Internetworking, University of Technology, Australia, 2008.
@@ -102,7 +118,8 @@
   email: jsantisteban@ucsp.edu.pe
   cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=4410
 - nombre: Mag. Marc-Antoine Le Guen
-  bio:     
+  bio:
+    - Mag. Ciencia de la Computación, Université Aix Marseille, Francia, 2013.   
   linea: Computación Gráfica
   email: mleguen@ucsp.edu.pe
   cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17265
