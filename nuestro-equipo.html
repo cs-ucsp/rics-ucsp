@@ -10,7 +10,11 @@ title: Nuestro equipo
   
   {% for r in site.data.acreditados %}
       <p class="list"> 
-      	 <h4><strong>{{ r.nombre }}</strong></h4>  
+      	 <h4 ><strong>{{ r.nombre }}</strong> <br> 
+           {{r.cargo}}</h4> 
+      </p>
+
+      <p class="list">
      		 <ul class="list">
       	 {% for b in r.bio %}
        		 <li>{{ b }}</li>
