@@ -165,7 +165,7 @@ img.rounded-circle:hover{
     right: 0px;
 }
 
-#expositores, #call, #fechas, #comite, #comitepro, #requisito, #organiza, #contacto, #presentation {
+#expositores, #fechas, #comite, #comitepro, #requisito, #organiza, #contacto, #presentation, #programa {
     padding: 50px 0px 100px 0px;
 }
 
@@ -222,7 +222,7 @@ body{
 	border-radius:7px;
 }
 .fondo-presentacion{
-	background: #f8f8f8;
+	background: rgba(255, 255, 255, 0.90);;
     padding: 35px;
     /*border-radius: 0px;*/
     text-align: justify;
@@ -305,4 +305,50 @@ transform: translateX(0);
 	height: auto;
 	/*display: block;*/
 }
-
+.poligono{
+	height: 1300px;
+    /*background-size: cover;
+    color: white;*/
+    z-index: 1;
+    -webkit-clip-path: polygon(0% 100%, 0% 0%, 100% 0%, 100% 100%);
+    clip-path: polygon(0% 100%, 0% 0%, 100% 0%, 100% 100%);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.pres{
+	margin-top: -688px;
+    position: relative;
+    /*z-index: 10;*/
+	background: rgba(255, 255, 255, 0.90);
+}
+.estilos-programa{
+	text-align: center;
+}
+.break{
+	background: #ececec;
+	color:#0e41a0;
+	padding: 10px;
+	font-size: 1.2em;
+	border: 1px solid #d4d4d4;
+}
+.lunch{
+	background: #ececec;
+	color:#e1b015;
+	padding: 10px;
+	font-size: 1.2em;
+	border: 1px solid #d4d4d4;
+}
+.border-tabla{
+	background: #0e41a0;
+	color:#ffffff;
+	padding: 10px;
+	font-size: 1.1em;
+	border: 3px solid #ffffff;
+}
+.interior-tabla{
+	padding: 10px;
+	border: 1px solid #d4d4d4;
+	font-size: 1.1em;
+}
