@@ -12,8 +12,8 @@ body {
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 .carousel-inner img {
-    width: 100%;
-    max-height: 760px
+    /*width: 100%;*/
+    max-height: 43em;
 }
 
 /* Carousel base class */
@@ -23,22 +23,22 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  bottom: 2rem;
+  /*bottom: 2rem;*/
 }
 
 /* Declare heights because of positioning of img element */
-/*.carousel-item {
-  height: 47rem;
+.carousel-item {
+  /*height: 47rem;*/
   background-color: #777;
 }
 .carousel-item > img {
-  position: absolute;
+  /*position: absolute;*/
   top: 0;
   left: 0;
   min-width: 100%;
-  height: 47rem;
+ /* height: 47rem;*/
 }
-*/
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -199,10 +199,20 @@ img.rounded-circle:hover{
 	color: #ffffff; 
 	text-shadow: 3px 3px 4px #000000; 
 	font-size: 3.5em;
-	padding: 170px 0;
+	padding: 170px 0 0 0;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 700;
 	line-height: 1.5em;
+}
+.titulo-slider-dark-responsive{
+	color: #ffffff; 
+	text-shadow: 3px 3px 4px #000000; 
+	font-size: 2.5em;
+	padding: 50px 0 50px 0;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	line-height: 1.5em;
+	text-align: center;
 }
 .icono-seccion{
 	color: #e1b015; 
@@ -387,3 +397,46 @@ background: -ms-linear-gradient(top, rgba(112,112,112,1) 0%, rgba(156,156,156,1)
 background: linear-gradient(to bottom, rgba(112,112,112,1) 0%, rgba(156,156,156,1) 28%, rgba(105,105,105,1) 64%, rgba(64,64,64,1) 75%, rgba(41,41,41,1) 86%, rgba(64,64,64,1) 95%, rgba(0,0,0,1) 97%, rgba(26,26,26,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#707070', endColorstr='#1a1a1a', GradientType=0 );
 }
+@media (max-width: 767px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .hidden-sm {
+    display: none !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .hidden-md {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  .hidden-lg {
+    display: none !important;
+  }
+}
+.table-responsive {
+  min-height: .01%;
+  overflow-x: auto;
+}
+@media screen and (max-width: 767px) {
+  .table-responsive {
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    border: 1px solid #ddd;
+  }
+  .table-responsive > .table {
+    margin-bottom: 0;
+  }
+  .table-responsive > .table > thead > tr > th,
+  .table-responsive > .table > tbody > tr > th,
+  .table-responsive > .table > tfoot > tr > th,
+  .table-responsive > .table > thead > tr > td,
+  .table-responsive > .table > tbody > tr > td,
+  .table-responsive > .table > tfoot > tr > td {
+    white-space: nowrap;
+  }
