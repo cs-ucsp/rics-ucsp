@@ -187,10 +187,15 @@
         font-size: 150px;
     }
   }
-.carousel-caption{
-	font-size: 2.6em;
+.carousel-caption-lg{
+	font-size: 2.7em;
     font-weight: 700;
 }
+.carousel-caption-xs{
+	font-size: 28px;
+    font-weight: 700;
+}
+
 
 .texto-contacto-general{
 	
@@ -201,5 +206,11 @@
 	font-size: 1.3em;
 	color:#ff9e55;
 	
+}
+.sticky-top {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
 }
   
