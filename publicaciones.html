@@ -7,9 +7,27 @@ title: Publicaciones
 	        <span class="tittle-pagina">{{ page.title }}</span>
          </div>
          
+                       
+          <h3>En proceso de Publicación</h3>
+          <table class="table table-hover">
+            {% for grup in site.data.publicaciones2016 %}  
+            {% if grup.Publicado == "NO" %}   
+            <tr>
+              <td style="text-align:justify; vertical-align:middle;">
+              		<div style="font-size: 16px; color: #498AB8;">{{ grup.Articulo }}</div>
+                  <div style="font-size: 14px;">{{ grup.Revista }}</div>
+                  <div style="font-size: 12px;">{{ grup.Autores }}</div>
+              </td>
+            </tr>          
+            {% endif %}
+            {% endfor %} 
+          </table>
+          
+          
           {% for pub in site.data.year-publicaciones %}
           
           {% if pub.Anho > "2010" %}          
+          
           
           <h3>{{ pub.Anho }}</h3>
           
@@ -18,15 +36,7 @@ title: Publicaciones
             {% for grup in site.data.publicaciones2016 %}  
             {% if grup.Anho == pub.Anho %}
             {% if grup.Ucsp == "SI" %}   
-            {% if grup.Anho == "2017" %}
-            <tr>
-              <td style="text-align:justify; vertical-align:middle;">
-              		<div style="font-size: 16px; color: #498AB8;">{{ grup.Articulo }}</div>
-                  <div style="font-size: 14px;">{{ grup.Revista }}</div>
-                  <div style="font-size: 12px;">{{ grup.Autores }}</div>
-              </td>
-            </tr>  
-            {% else %} 
+            {% if grup.Publicado == "SI" %} 
             <tr>
               <td style="text-align:justify; vertical-align:middle;">
               		<div style="font-size: 16px;"><a href={{grup.Link}} target="_blank">{{ grup.Articulo }}</a></div>
