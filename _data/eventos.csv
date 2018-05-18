@@ -1,27 +1,28 @@
 Tipo,Nombre,Fecha_Inicio,Fecha_Fin,Anho,Lugar,Responsable,Ejecucion,Link
-Seminario,Data Science: El valor de los datos en tu empresa,07/mar,-,2018,Auditorio principal de la Cámara de Comercio de Arequipa ,"Dr. Erick Gómez, Dr. José Ochoa, Dr. Jorge Poco",NO,/eventos/seminario-data-science-mar-2018/
-Evento,Business Model Competition BMC - 2017 ,11/dic,12/dic,2017,UCSP - Auditorio San Juan Pablo II ,Dr. José Ochoa,NO,/bmc/
-Charla,Investigaciones de la Maestría en Ciencia de la Computación ,11/dic,-,2017,UCSP - Aula PB-08 ,Dr. José Ochoa,NO,/eventos/charla-investigaciones-maestria.html
-Evento,Hackathon La Positiva ,26/nov,27/nov,2017,UCSP - Campus de San Lázaro ,Dr. Manuel Loaiza,NO,/hackathon-lapositiva/
-Simposio,Computación Gráfica e Imágenes - SCGI 2017 ,30/oct,02/nov,2017,UCSP - Auditorio San Juan Pablo II ,"Dr. Jorge Poco, Dr. Erick Gómez, Dr. Alex Cuadros",NO,/scgi2017/
-Charla,Investigaciones de la Maestría en Ciencia de la Computación ,29/sep,-,2017,UCSP - Aula 108 ,Dr. José Ochoa,NO,/eventos/investigaciones-maestria.html
-Evento,Examen Poscomp 2017 ,17/sep,-,2017,UCSP - Aula A-202 ,Dr. Alex Cuadros,NO,http://www.sbc.org.br/educacao/poscomp
-Taller,Cierre de Proyecto: Modelo e implementación computacional de un sistema evolutivo de optimización de edificaciones en arquitectura sostenible con soporte a cambio climático ,19/may,-,2017,Colegio de Arquitectos de Arequipa ,Dr. Yván Túpac,NO,/eventos/taller-cierre-arquitectura-sostenible.html
-Charla,"Research and Applications in the fields of Image Analysis, Geometrical Modeling and Visualization ",11/abr,-,2017,UCSP - Auditorio San Juan Pablo II ,Dr. Jean Sequeira,NO,/eventos/charla-jean-sequeira-abr-2017/
-Evento,"Examen Escrito, Proceso de Admisión 2017 de la Maestría en Ciencia de la Computación ",08/abr,-,2017,"UCSP - Aula A-203, A-301 ",Dr. Alex Cuadros,NO,/mcs/
-Charla,Visualization with mining in the context of Data Science ,03/nov,-,2016,UCSP - Aula 108 ,Dr. Rosane Minghim,NO,/eventos/charla-rosane-minghim-nov-2016/
-Evento,Startup Grind: Amparo Nalvarte ,24/may,-,2016,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://www.startupgrind.com/events/details/startup-grind-arequipa-presents-amparo-nalvarte-culqi#/
-Evento,Startup Grind: Christophe Robilliard ,25/abr,-,2016,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://www.startupgrind.com/events/details/startup-grind-arequipa-presents-christophe-robilliard-easy-taxi#/
-Evento,"Examen Escrito, Proceso de Admisión 2016 de la Maestría en Ciencia de la Computación ",02/abr,-,2016,"UCSP - Aula A-202, A-203 ",Dr. Alex Cuadros,NO,/mcs/
+Seminario,Data Science: El valor de los datos en tu empresa,07-mar,-,2018,Auditorio principal de la Cámara de Comercio de Arequipa ,"Dr. Erick Gómez, Dr. José Ochoa, Dr. Jorge Poco",NO,/eventos/seminario-data-science-mar-2018/
+Evento,Business Model Competition BMC - 2017 ,11-dic,12-dic,2017,UCSP - Auditorio San Juan Pablo II ,Dr. José Ochoa,NO,/bmc/
+Charla,Investigaciones de la Maestría en Ciencia de la Computación ,11-dic,-,2017,UCSP - Aula PB-08 ,Dr. José Ochoa,NO,/eventos/charla-investigaciones-maestria.html
+Charla,Graph Laplacian and Multidimensional Data Visualization: a worthwhile partnership,07-dic,-,2017,UCSP - Aula 108 ,Dr. Gustavo Nonato,NO,/eventos/charla-gustavo-nonato-dic-2017/
+Evento,Hackathon La Positiva ,26-nov,27-nov,2017,UCSP - Campus de San Lázaro ,Dr. Manuel Loaiza,NO,/hackathon-lapositiva/
+Simposio,Computación Gráfica e Imágenes - SCGI 2017 ,30-oct,02-nov,2017,UCSP - Auditorio San Juan Pablo II ,"Dr. Jorge Poco, Dr. Erick Gómez, Dr. Alex Cuadros",NO,/scgi2017/
+Charla,Investigaciones de la Maestría en Ciencia de la Computación ,29-sep,-,2017,UCSP - Aula 108 ,Dr. José Ochoa,NO,/eventos/investigaciones-maestria.html
+Evento,Examen Poscomp 2017 ,17-sep,-,2017,UCSP - Aula A-202 ,Dr. Alex Cuadros,NO,http://www.sbc.org.br/educacao/poscomp
+Taller,Cierre de Proyecto: Modelo e implementación computacional de un sistema evolutivo de optimización de edificaciones en arquitectura sostenible con soporte a cambio climático ,19-may,-,2017,Colegio de Arquitectos de Arequipa ,Dr. Yván Túpac,NO,/eventos/taller-cierre-arquitectura-sostenible.html
+Charla,"Research and Applications in the fields of Image Analysis, Geometrical Modeling and Visualization ",11-abr,-,2017,UCSP - Auditorio San Juan Pablo II ,Dr. Jean Sequeira,NO,/eventos/charla-jean-sequeira-abr-2017/
+Evento,"Examen Escrito, Proceso de Admisión 2017 de la Maestría en Ciencia de la Computación ",08-abr,-,2017,"UCSP - Aula A-203, A-301 ",Dr. Alex Cuadros,NO,/mcs/
+Charla,Visualization with mining in the context of Data Science ,03-nov,-,2016,UCSP - Aula 108 ,Dr. Rosane Minghim,NO,/eventos/charla-rosane-minghim-nov-2016/
+Evento,Startup Grind: Amparo Nalvarte ,24-may,-,2016,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://www.startupgrind.com/events/details/startup-grind-arequipa-presents-amparo-nalvarte-culqi#/
+Evento,Startup Grind: Christophe Robilliard ,25-abr,-,2016,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://www.startupgrind.com/events/details/startup-grind-arequipa-presents-christophe-robilliard-easy-taxi#/
+Evento,"Examen Escrito, Proceso de Admisión 2016 de la Maestría en Ciencia de la Computación ",02-abr,-,2016,"UCSP - Aula A-202, A-203 ",Dr. Alex Cuadros,NO,/mcs/
 Evento,Startup Grind: Luis Miguel Frisancho ,29/feb,-,2016,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://www.startupgrind.com/events/details/startup-grind-arequipa-presents-luis-miguel-frisancho-chazki-1#/purchase
-Evento,Startup Grind: José de la Fuente Soriano ,19/ene,-,2016,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://www.startupgrind.com/events/details/startup-grind-arequipa-presents-jose-de-la-fuente-soriano-carcool#/
-Conferencia,XLI Conferencia Latinoamericana de Informática - CLEI 2015 ,19/oct,23/oct,2015,Centro de Convenciones de Cerro Juli ,Dr. Ernesto Cuadros,NO,http://clei.org/
-Evento,Startup Grind: Gary Urteaga ,22/sep,-,2015,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://appuntate.com/evento/arequipa/appuntateconf/
-Curso,Propiedad Intelectual ,23/jul,25/jul,2015,UCSP - Aula PB-10 ,Ms.C. Luis Sánchez,NO,/eventos/propiedad-intelectual.html
-Seminario,Innovación en ambiente Spin-off ,07/jul,09/jul,2015,UCSP - Auditorio Campus Salaverry ,Dr. José Manuel Cárdenas,NO,/eventos/seminario-innovacion-ambiente-spin-off.html
-Evento,Startup Grind: Fernando D'Alessio ,25/jun,-,2015,UCSP - Auditorio San Juan Pablo II ,Dr. Alex Cuadros,NO,/eventos/startup-grind-25-junio-w.html
-Seminario,Aportes a la Sostenibilidad y Adaptación al Cambio Climático en Arequipa ,08/may,-,2015,UCSP - Auditorio San Juan Pablo II ,Dr. Yván Túpac,NO,
-Evento,Global Startup ,07/jul,13/ago,2014,UCSP - Campus de San Lázaro ,Dr. Ernesto Cuadros,NO,http://gsl.mit.edu/program/peru-summer-2014/
-Evento,X LARS - XII LARC - Perú 2013 ,21/oct,27/oct,2013,UCSP - Campus de San Lázaro ,Dr. Dennis Barrios,NO,
-Conferencia,"XXVI Conference on Graphics, Patterns and Images - SIBGRAPI 2013 ",05/ago,08/ago,2013,UCSP - Campus de San Lázaro ,Dr. Alex Cuadros,NO,http://www.ucsp.edu.pe/sibgrapi2013/
-Simposio,Latin American Symposium on Theoretical Informatics - LATIN 2012,16/abr,20/abr,2012,UCSP - Campus de San Lázaro ,Dr. Ernesto Cuadros,NO,http://latin2012.cs.iastate.edu/
+Evento,Startup Grind: José de la Fuente Soriano ,19-ene,-,2016,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://www.startupgrind.com/events/details/startup-grind-arequipa-presents-jose-de-la-fuente-soriano-carcool#/
+Conferencia,XLI Conferencia Latinoamericana de Informática - CLEI 2015 ,19-oct,23-oct,2015,Centro de Convenciones de Cerro Juli ,Dr. Ernesto Cuadros,NO,http://clei.org/
+Evento,Startup Grind: Gary Urteaga ,22-sep,-,2015,UCSP - Auditorio Campus Salaverry,Dr. Alex Cuadros,NO,https://appuntate.com/evento/arequipa/appuntateconf/
+Curso,Propiedad Intelectual ,23-jul,25-jul,2015,UCSP - Aula PB-10 ,Ms.C. Luis Sánchez,NO,/eventos/propiedad-intelectual.html
+Seminario,Innovación en ambiente Spin-off ,07-jul,09-jul,2015,UCSP - Auditorio Campus Salaverry ,Dr. José Manuel Cárdenas,NO,/eventos/seminario-innovacion-ambiente-spin-off.html
+Evento,Startup Grind: Fernando D'Alessio ,25-jun,-,2015,UCSP - Auditorio San Juan Pablo II ,Dr. Alex Cuadros,NO,/eventos/startup-grind-25-junio-w.html
+Seminario,Aportes a la Sostenibilidad y Adaptación al Cambio Climático en Arequipa ,08-may,-,2015,UCSP - Auditorio San Juan Pablo II ,Dr. Yván Túpac,NO,
+Evento,Global Startup ,07-jul,13-ago,2014,UCSP - Campus de San Lázaro ,Dr. Ernesto Cuadros,NO,http://gsl.mit.edu/program/peru-summer-2014/
+Evento,X LARS - XII LARC - Perú 2013 ,21-oct,27-oct,2013,UCSP - Campus de San Lázaro ,Dr. Dennis Barrios,NO,
+Conferencia,"XXVI Conference on Graphics, Patterns and Images - SIBGRAPI 2013 ",05-ago,08-ago,2013,UCSP - Campus de San Lázaro ,Dr. Alex Cuadros,NO,http://www.ucsp.edu.pe/sibgrapi2013/
+Simposio,Latin American Symposium on Theoretical Informatics - LATIN 2012,16-abr,20-abr,2012,UCSP - Campus de San Lázaro ,Dr. Ernesto Cuadros,NO,http://latin2012.cs.iastate.edu/
