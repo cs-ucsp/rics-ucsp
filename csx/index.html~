@@ -1,0 +1,32 @@
+---
+layout: default
+title: Cursos de Extensión
+---
+
+
+<div class="row">
+	
+	 <div class="page-title-box clearfix">
+      	<span class="tittle-pagina">Cursos de Extensión</span>
+    </div>
+
+	   <div class="col-md-12">
+	   <div class="col-md-6" style="padding: 20px -20px; text-align: center;">
+      <a href="/csx/python/" title="Aprender más">
+  				<img src="/csx/img/banner-interno-python.jpg" alt="curso-python" class="img-responsive" style=" box-shadow:0 0 20px 0px rgba(0, 0, 0, .4); width: 80%;" />
+			</a>
+	   </div>
+	   
+	   <div class="col-md-6" style="padding: 20px -20px; text-align: center;">
+	   <a href="/csx/cplusplus/" title="Aprender más">
+  				<img src="/csx/img/banner-interno-c++.jpg" alt="curso-c++" class="img-responsive" style=" box-shadow:0 0 20px 0px rgba(0, 0, 0, .4); width: 80%;" />
+			</a>
+      </div>
+	   </div>
+
+	
+</div>
+
+<br>
+<br>	
+<br>
