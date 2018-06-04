@@ -6,6 +6,27 @@ title: Eventos
 <!--<div class="page-title-box clearfix">
    <span class="tittle-pagina">{{ page.title }}</span>
 </div>-->
+           
+     <h3>En Ejecución</h3>
+     <table class="table table-hover">
+       {% for grup in site.data.eventos %}      
+       {% if grup.Ejecucion == "SI" %}          
+       <tr>
+              <td style="text-align:justify; vertical-align:middle;">
+              		<div style="font-size: 16px;"><a href={{grup.Link}} target="_blank"><strong> {{ grup.Tipo}}:</strong> {{ grup.Nombre }}</a></div>
+                  {% if grup.Fecha_Fin != "-" %}
+                     <div style="font-size: 14px;">{{ grup.Fecha_Inicio }} - {{ grup.Fecha_Fin}} - {{ grup.Anho}}, {{grup.Lugar}} </div>
+                  {% else %}
+                     <div style="font-size: 14px;">{{ grup.Fecha_Inicio }} - {{ grup.Anho}}, {{grup.Lugar}} </div>
+                  {% endif %}                   
+                  <div style="font-size: 12px;">{{ grup.Responsable }}</div>
+              </td>
+       </tr>          
+       {% endif %}
+       {% endfor %} 
+     </table>     
+     
+     
      
      <h3>Finalizados</h3>
      <table class="table table-hover">
