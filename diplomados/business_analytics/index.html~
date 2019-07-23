@@ -1,0 +1,476 @@
+---
+layout: default
+title: Diplomado en Business Analytics
+description: El diplomado en Business Analytics de la UCSP ha sido diseñado para entrenar a los estudiantes en habilidades técnicas en big data, modelado estadístico, modelado predictivo basado en Inteligencia artificial y visualización, y cómo estas pueden aplicarse en gestión financiera, marketing, social media, entre otros. Los graduados estarán posicionados para ser pioneros en el desarrollo de este campo y ser líderes en la industria, el sector público y academia.
+---
+
+<div class="banner-events banner-rics">
+  <img src="/img/diplomados/temp_dp.png" alt="{{ page.title }}"
+  class="img img-responsive center-block" />
+</div>
+<br>
+
+
+<div class="row ">
+<div class="col-lg-2 col-md-2">
+<!-- Nav tabs -->
+    <ul class="nav nav-tabs tabs-left">
+      <li class="active"><a href="#home" data-toggle="tab">Presentacion</a></li>
+      <li><a href="#plan" data-toggle="tab">Plan de Estudios</a></li>
+      <li><a href="#especialistas" data-toggle="tab">Especialistas</a></li>
+      <li><a href="#calendario_inversion" data-toggle="tab">Calendario e Inversión</a></li>
+      <li><a href="#admision" data-toggle="tab">Admisión</a></li>
+    </ul>
+</div>
+
+<div class="col-lg-7 col-md-7">
+    <!-- Tab panes -->
+    <div class="tab-content">
+      <div class="tab-pane active" id="home">
+      <div class="page-title-box clearfix" id="presentacion">
+     		<span class="tittle-sup">Presentación</span>
+     	</div>
+  	  	  <p style="text-align: justify;">El Diplomado en Business Analytics tiene como objetivo brindar una formación en el conocimiento y habilidades para
+        seleccionar, aplicar y evaluar técnicas de Data Science para descubrir conocimiento que pueda añadir valor a una organización. A través de este
+        diplomado, los estudiantes conseguirán tener un entendimiento teórico profundo y una experiencia práctica (hands-on) en la implementación de estas técnicas
+        novedosas y emergentes en sus propias organizaciones. <br /><br />
+        Ha sido diseñado para entrenar a los estudiantes en habilidades técnicas en big data, modelado estadístico, modelado predictivo basado en Inteligencia 
+        artificial y visualización, y cómo estas pueden aplicarse en gestión financiera, marketing, social media, entre otros. Los graduados estarán posicionados 
+        para ser pioneros en el desarrollo de este campo y ser líderes en la industria, el sector público y academia.</p>
+      
+      
+        <div class="page-title-box clearfix">
+     			<span class="tittle-sup">Objetivos</span>
+		  </div>
+        <p style="text-align: justify;">El diplomado busca que los estudiantes alcancen los siguientes objetivos al finalizar el diplomado:</p>
+            
+        <ul style="text-align: justify;">
+        <li>Entender la vasta cantidad de datos disponibles en los mercados de hoy para desarrollar un estrategia de negocios ganadora en sus organizaciones.
+        </li>
+        <li>Aplicar y gestionar técnicas modernas de <i><b>Business Analytics</b></i> para solucionar desafíos críticos de negocios.
+        </li>
+        <li>Trabajar con datos de diversas formas, preguntarse cuestiones relevantes, analizar y descubrir <i>insights</i> en los datos, usarlos y/o comunicarlos  para la toma de decisiones.
+        </li>
+        <li>Ser parte de un perfil profesional cada vez más demandado por las organizaciones, en numerosas industrias y disciplinas desde salud, negocios, ingeniería y ciencias sociales. 
+        </li>
+        <li>Saber adaptarse a la aparición de nuevas tecnologías para poder aprovechar al máximo el potencial que éstas ofrezcan.
+        </li>
+        <li>Identificar oportunidades de aplicación de <i><b>Business Analytics</b></i> en problemas específicos de sus organizaciones, de una forma personalizada.
+        </li>
+        </ul>    
+		  <br /><br />
+		  
+		  <div class="page-title-box clearfix">
+     			<span class="tittle-sup">Perfil Egresado</span>
+			</div>
+        <ul style="text-align: justify;">
+        <li>Entender y abordar problemas de análisis de datos usando herramientas computacionales.
+        </li>
+        <li>Usar modelos estadísticos, entender su poder y limitaciones.
+        </li>
+        <li>Visualizar datos para exploración, análisis y presentación.
+        </li>
+        <li>Aplicar algoritmos analíticos en grandes volúmenes de datos. 
+        </li>
+        <li>Organizar, ejecutar, reportar y presentar un proyecto de <i><b>Business Analytics</b></i> del mundo real en colaboración con otros analistas.
+        </li>
+        <li>Aplicar modelos predictivos para toma de decisiones basada en <i>Machine learning</i>.
+        </li>
+        </ul>  
+		  <br /><br />
+		  
+		  <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Dirigido a</span>
+     	  </div>
+  	  	  <p style="text-align: justify;">Profesionales y bachilleres de las carreras relacionadas a administración, gestión, marketing, ingeniería industrial, 
+  	  	  finanzas o carreras afines al proceso de gestión y toma de decisiones. con experiencia en proceso de gestión y toma de decisiones en áreas de 
+  	  	  producto, marketing, finanzas, educación etc., de empresas privadas y públicas.
+        </p>
+		  
+		  
+		  <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Metodología</span>
+     	  </div>
+  	  	  <p style="text-align: justify;">El desarrollo de las sesiones en los cursos se desarrollará mediante clases magistrales (presenciales), 
+  	  	  así como con la realización de prácticas de trabajos individuales y grupales. Se pondrá énfasis al desarrollo de casos de estudios que 
+  	  	  deben ser desarrollados en las horas de prácticas definidas. También, se ha definido la realización de un proyecto final que demuestre 
+  	  	  la aplicación de las habilidades aprendidas en un problema de <i><b>Business Analytics</b></i> con datos reales.
+        </p> 
+        
+        <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Creditaje</span>
+     	  </div>
+  	  	  <p style="text-align: justify;">25 créditos académicos
+        </p> 
+        
+        <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Duración</span>
+     	  </div>
+  	  	  <p style="text-align: justify;">25 semanas
+        </p> 
+        
+      </div>
+      
+      
+      
+      
+      <div class="tab-pane" id="plan">
+      <p style="text-align: justify;">El diplomado está estructurado en 5 cursos:</p>
+      
+      <p style="text-align: justify;">
+      <b>1. Business Analytics y Big Data (Business Analytics and Big Data)</b> <br/>     
+      Se introducirá a los participantes en tecnologías para gestionar el proceso de colecta, almacenamiento y procesamiento 
+      de grandes volúmenes de datos, presentes en procesos de Transformación Digital y Business Intelligence. <br />
+      Se manejará el uso de tecnologías como colecta masiva de datos, bases de datos relacionales y no relacionales, 
+      arquitectura de modelos Big Data, Network Science, y el impacto que estas proveen para que las empresas sitúen 
+      al cliente en el centro de su negocio, aumentando sus resultados a través de mejores estrategias basadas en conocimiento.
+      </p>
+       
+      <p style="text-align: justify;">
+      <b>2. Fundamentos Estadísticos para Business Analytics (Statistical Foundations for Business Analytics)</b> <br/>     
+      Proporcionará bases estadísticas para el análisis de datos. Adicionalmente, se enseñará una introducción a las técnicas y 
+      metodologías estadísticas avanzadas que incluyen Análisis de Resúmenes estadísticos, Construcción de bases de datos, 
+      Recodificación y ponderación de variables, Tablas de contingencia, métodos paramétricos y no paramétricos. Respaldamos 
+      nuestro enfoque al estudiar ejemplos aplicados a casos reales y conjuntos de datos en varias áreas de negocios, 
+      incluyendo marketing, recursos humanos, finanzas y operaciones.  Al final del curso, los estudiantes tendrán una comprensión 
+      fundamental de muchos de los principios estadísticos que subyacen en las áreas de Machine Learning y Business Analytics.
+      </p>
+      
+      <p style="text-align: justify;">
+      <b>3. Herramientas Analíticas para el Análisis Exploratorio de Datos (Data Analytics Tools for Exploratory Analysis)</b> <br/>     
+      Se mostrará el uso de software analítico para la extracción de información a partir de conjuntos de datos nativos (no procesados). 
+      Aprenderemos las bondades y limitaciones que tiene el software tradicional, como hojas de cálculo, para el análisis de grandes 
+      cantidades de datos, para pasar enseguida a introducir lenguajes como R y Python para lectura de archivos, web mining, cálculos 
+      estadísticos y la generación de representaciones gráficas de los datos analizados. Al final del curso, los estudiantes tendrán 
+      una visión más profunda del software que es usado actualmente para analizar y explorar grandes volúmenes de datos proveniente de casos reales.
+      </p>
+      
+      <p style="text-align: justify;">
+      <b>4. Machine Learning para Toma de Decisiones (Machine Learning for Decision-Making)</b> <br/>     
+      Presentará las herramientas y técnicas de los modelos predictivos que utilizan los investigadores en el campo de machine learning. 
+      Se cubrirá conceptos fundamentales como Naive Bayes, Árboles de decisión, Nearest Neighbor Estimators, Clasificadores, Clustering, 
+      y Density Estimation. Al final del curso, los alumnos podrán usar los conocimientos aprendidos para apoyar la toma de decisiones 
+      en casos de estudio como la detección de fraudes, la segmentación de clientes o la predicción del tiempo de inactividad de una máquina.
+      </p>
+      
+      <p style="text-align: justify;">
+      <b>5. Fundamentos en Visualización de Datos (Data Visualization Fundamentals)</b> <br/>     
+      Buscar proveer los fundamentos de herramientas visuales para interpretar datos más rápidamente ayudando en el proceso de descubrimiento 
+      de conocimiento, en apoyo a la toma de decisiones. Se aprenderá cómo diseñar herramientas interactivas gráficas para extraer información 
+      mediante un análisis exploratorio, explotando la combinación entre percepción humana y analíticas visuales. La aplicación de estos gráficos 
+      será enfocada en el análisis de datos multidimensionales, temporales, espaciales y de otras naturalezas, que son generadas cada minuto del 
+      día, por medio de herramientas como Tableau y librerías como matplotlib y D3.js.
+      </p>
+      
+      </div>
+      
+      
+      
+      
+      <div class="tab-pane" id="especialistas">
+      
+      <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Internacionales</span>
+     	</div>
+      
+      <p style="text-align: justify;">
+      <b>Dr. Javier Montoya Zegarra (ETH-Suiza)</b> <br/>     
+      Doctor en Ciencia de la Computación, ETH-Zurich (Suiza). Maestría en Visión y Machine Learning, INRIA/ENSIMAG (Francia). 
+      Actualmente es investigador senior en el ETH-Zurich (Suiza).  Se ha desempeñado como Data Scientist en las empresa Caru GmbH 
+      con el proyecto: <i>analysis of temporal data from sensors for predicting presence of humans in rooms.</i> Asimismo en la empresa Tracktics GmbH, 
+      con el proyecto: <i>analysis of sensor data for sport summarisation.</i>  Especialista en Machine Learning aplicado en Data Science.
+      </p>
+      
+      <p style="text-align: justify;">
+      <b>Dr. Jorge Poco Medina (FGV-Brasil)</b> <br/>     
+      Doctor en Ciencia de la Computación, New York University (USA). Maestría en Ciencia de la Computación (Brasil). Actualmente es 
+      profesor asociado en la FGV de Brasil. Ha hecho pasantías de investigación en Google Inc. (2008 y 2010), Kitware Inc. (2011), 
+      Oak Ridge National Laboratory (2012) y Xerox Research (2013). Realizó un pos-doctorado en el Department of Computer Science 
+      and Engineering at the University of Washington, Seattle (USA). Especialista en Visualización de Datos para Data Science. 
+      Tiene amplia experiencia en proyectos de Data Science con empresas, donde ha desarrollado iniciativas de visualización de información y Visual Analytics.
+      </p>      
+      
+      
+      <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Nacionales</span>
+     	</div>
+     	
+     	<p style="text-align: justify;">
+      <b>Dr. Alex Cuadros Vargas (UCSP-Perú)</b> <br/>     
+      Doctor en Ciencia de la Computación, Universidade de Sao Paulo (Brasil). Maestría en Ciencia de la Computación, Universidade de Sao Paulo (Brasil). 
+      Realizó un Pos-Doctorado sobre generación de mallas a partir de imágenes, en la Universidad de Sao Paulo. Alex fue investigador invitado 
+      en el Department of Radiology, University of Pennsylvania (UPENN), USA . Fue también profesor invitado en el Scientific Computing and 
+      Imaging Institute (SCI) en Utah State University, USA. Es profesor investigador en la Universidad Católica San Pablo, en Arequipa, 
+      Perú desde el 2009, ha sido coordinador del Centro de Investigación e Innovación en Ciencia de la Computación. Actualmente es director 
+      del Departamento de Ciencia de la Computación de la UCSP.<br />
+
+      Alex es miembro fundador de la Sociedad Peruana de Computación (SPC). Sus áreas de interés son: Generación de mallas a partir de imágenes, 
+      Computación Gráfica, Geometría Computacional, Visualización Científica y Médica, Rendering Volumétrico, Reconstrucción Tridimensional a 
+      partir de secciones planares, Diagramas de Voronoi y Triangulaciones de Delaunay, Estructuras de datos Genéricas y Programación Heterogénea.
+      </p>  
+      
+      <p style="text-align: justify;">
+      <b>Dr. Erick Gómez Nieto (UCSP-Perú)</b> <br/>     
+      Doctor en Ciencia de la Computación, Universidade de Sao Paulo (Brasil). Maestría en Ciencia de la Computación, Universidade de Sao Paulo (Brasil).
+      Actualmente se desempeña como director de la Escuela Profesional de Ciencia de la Computación de la UCSP.  Ha trabajado como investigador 
+      en el grupo de Visual Analytics de IBM Research en Brasil. Es especialista y con amplia experiencia en visualización de datos, visual analytics y data science.
+      </p>  
+      
+      <p style="text-align: justify;">
+      <b>Dr. José Eduardo Ochoa Luna (UCSP-Perú)</b> <br/>     
+      Doctor en Ciencia de la Computación, Universidade de Sao Paulo (Brasil). Maestría en Ciencia de la Computación, Universidade 
+      Federal de Mato Grosso do Sul (Brasil). Actualmente se desempeña como profesor encargado de Postgrado del Departamento de Ciencia 
+      de la Computación de la UCSP. Ha sido chief technical officer (CTO) de la empresa Kompass Real Estate (Sao Paulo, Brasil). 
+      Ha desarrollado diversos proyectos de análisis de datos en social media, usando técnicas de procesamiento de lenguaje natural 
+      y Deep Learning. Es especialista en Machine Learning para Data Science.
+      </p>  
+      
+      <p style="text-align: justify;">
+      <b>Mg. Marc Antoine Le Guen (UCSP-Perú)</b> <br/>     
+      Maestría Ciencia de la Computación, Aix Marseille Université (Francia). Licenciado en Ciencia de la Computación, Aix Marseille 
+      Université (Francia). Actualmente es profesor del Departamento de Ciencia de la Computación UCSP. Ha desarrollado proyectos de 
+      videojuegos y APPs con empresas de Francia y Perú. Es especialista en Computación Gráfica, Video Juegos y Programación Paralela.
+      </p>  
+             
+      <p style="text-align: justify;">
+      <b>Mg. Sergio Aquise Escobedo (UCSP-Perú)</b> <br/>     
+      Maestría en Matemática Computacional, Universidade de Sao Paulo (Brasil). Licenciado en Matemáticas (UNSA). Actualmente es 
+      profesor Asociado TC de la Universidad Nacional de San Agustín de Arequipa. También es profesor del Departamento de Ciencia 
+      de la Computación UCSP. Tiene amplia experiencia en Matemática Aplicada, con énfasis en las subáreas de Métodos Numéricos, Álgebra Lineal y Estadística.
+      </p>  
+      </div>
+      
+      
+      
+      
+      <div class="tab-pane" id="calendario_inversion">
+      <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Calendario</span>
+     	</div>
+      <table class="table table-hover table-bordered" width="100%">
+      <tbody>
+      <tr>
+       <td><b>Inscripciones</b></td>
+       <td>Hasta 20 de setiembre de 2019</td>      
+      </tr>
+      <tr>
+       <td><b>Matrícula</b></td>
+       <td>Del 23 al 26 de setiembre de 2019</td>      
+      </tr>
+      <tr>
+       <td><b>Fecha de Inicio</b></td>
+       <td>Viernes 27 de setiembre de 2019</td>      
+      </tr>
+      <tr>
+       <td><b>Fecha de Fin</b></td>
+       <td>Sábado 04 de abril de 2020</td>      
+      </tr>
+      <tr>
+       <td><b>Horario</b></td>
+       <td>Viernes de 18:15 a 21:15 y sábado de 09:00 a 16:00 h</td>      
+      </tr>
+      <tr>
+       <td><b>Duración</b></td>
+       <td>25 semanas</td>      
+      </tr>
+      <tr>
+       <td><b>Lugar</b></td>
+       <td>Campus San Lázaro</td>      
+      </tr>
+            
+      </tbody>
+      </table>
+      
+      
+       <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Inversión</span>
+     	</div>
+     	
+     	<table class="table table-hover table-bordered" width="100%">
+      <tbody>
+      <tr>
+       <td><b>Matrícula</b></td>
+       <td colspan="2">S/ 300.00</td>      
+      </tr>
+      <tr>
+       <td><b>Opción de pago 1</b></td>
+       <td>6 cuotas de S/ 950.00 cada una</td>
+       <td>S/ 5700.00</td>      
+      </tr>
+      <tr>
+       <td><b>Opción de pago 2</b></td>
+       <td>Descuento por pronto pago hasta el 16 de setiembre</td>  
+       <td>S/ 5500.00</td>      
+      </tr>      
+      </tbody>
+      </table>
+      
+      <p><em>* El costo de la matrícula no está incluido en la opción de pago 1 y 2</em></p>      
+      
+      <table class="table table-hover table-bordered" width="100%" style="text-align: center;">
+      <tbody>
+      <tr style="background: #ececec;">
+       <td><b>Servicio</b></td>
+       <td><b>Costo en soles</b></td>
+       <td><b>Fecha</b></td>      
+      </tr>
+      <tr>
+       <td>Matrícula</td>
+       <td>S/ 300.00</td>
+       <td>Del lunes 23 al jueves 26 de setiembre</td>      
+      </tr>
+      <tr>
+       <td>Contado</td>
+       <td>S/ 5500.00</td>
+       <td>Hasta el 16 de setiembre</td>      
+      </tr>
+       <tr>
+       <td>Cuota I</td>
+       <td>S/ 950.00</td>
+       <td>Hasta el 26 de setiembre</td>      
+      </tr>
+       <tr>
+       <td>Cuota II</td>
+       <td>S/ 950.00</td>
+       <td>Hasta el 26 de octubre</td>        
+      </tr>
+       <tr>
+       <td>Cuota III</td>
+       <td>S/ 950.00</td>
+       <td>Hasta el 26 de noviembre</td>        
+      </tr>
+       <tr>
+       <td>Cuota IV</td>
+       <td>S/ 950.00</td>
+       <td>Hasta el 22 de diciembre</td>       
+      </tr>
+       <tr>
+       <td>Cuota V</td>
+       <td>S/ 950.00</td>
+       <td>Hasta el 26 de enero</td>       
+      </tr>  
+       <tr>
+       <td>Cuota VI</td>
+       <td>S/ 950.00</td>
+       <td>Hasta el 26 de febrero</td>       
+      </tr>
+      </tbody>
+      </table>
+      
+      
+      <p><b>Tabla de cuentas bancarias:</b></p>    
+      <table class="table table-hover table-bordered" width="100%" style="text-align: center;">
+      <tbody>
+      <tr style="background: #ececec;">
+       <td><b>Moneda</b></td>
+       <td><b>Banco</b></td>
+       <td><b>Nº de Cuenta Interbancario</b></td>  
+       <td><b>Nº de Cuenta</b></td>     
+      </tr>
+      <tr>
+       <td>Dolares</td>
+       <td>Bcp</td>
+       <td>002-215-001063974137-29</td>  
+       <td>215-1063974-1-37</td>    
+      </tr>
+      <tr>
+       <td>Soles</td>
+       <td>Bcp</td>
+       <td>002-215-001106015085-28</td>   
+       <td>215-1106015-0-85</td>   
+      </tr>
+       <tr>
+       <td>Dolares</td>
+       <td>ScotiabanK</td>
+       <td>009-314-000000281671-68</td>  
+       <td>000-0281671</td>    
+      </tr>
+       <tr>
+       <td>Soles</td>
+       <td>ScotiabanK</td>
+       <td>009-314-000000125253-65</td>   
+       <td>000-0125253</td>     
+      </tr>
+       <tr>
+       <td>Dolares</td>
+       <td>Bbva</td>
+       <td>011-239-000100015013-14</td>  
+       <td>0011-0239-0100015013-14</td>      
+      </tr>
+       <tr>
+       <td>Soles</td>
+       <td>Bbva</td>
+       <td>011-239-000100015005-10</td>    
+       <td>0011-0239-0100015005-10</td>   
+      </tr>
+      
+      </tbody>
+      </table>
+      
+      
+      </div>
+      
+      
+      
+      <div class="tab-pane" id="admision">
+
+		<div class="page-title-box clearfix">
+     		<span class="tittle-sup">Inscripción</span>
+     	</div>       
+      <ul>
+      <li>Ficha de inscripción.</li>  
+      <li>Copia simple de DNI.</li>
+      <li>Extranjeros: Copia simple de carné de extranjería o pasaporte.</li>
+      <li>Copia simple del diploma del grado académico de bachiller.</li>
+      <li>Extranjeros: Copia del equivalente del grado de bachiller.</li>    
+      </ul>      
+      
+      <div class="page-title-box clearfix">
+     		<span class="tittle-sup">Matrícula</span>
+     	</div>       
+      <ul>
+      <li>Comprobante de pago de derechos de Matrícula</li>  
+      <li>Registro de la SUNEDU del grado académico de bachiller. Si no está registrado el grado en SUNEDU se tendrá que presentar una copia legalizada del diploma de bachiller.</li>
+      <li>Extranjeros: Copia legalizada o con la apostilla de La Haya del equivalente del grado de bachiller.</li>    
+      </ul>  
+       
+      </div>
+      
+    </div>
+</div>
+<div class="col-lg-3 col-md-3">
+ <div class="alert alert-info" role="alert">
+ <table width="100%">
+  <tbody>
+    <tr>
+      <td><span style="font-size:28px; margin-right:10px;" class="glyphicon glyphicon-info-sign" aria-hidden="true"></span></td>
+      <td><span style="font-size:13px; text-align: center;">  
+      <strong>Inicio</strong><br/>
+      27 de setiembre de 2019      
+      </span></td>
+    </tr>
+  </tbody>
+</table>
+
+ </div>
+ <br />
+ <div class="alert alert-gray" role="alert">
+<strong>Informes e inscripciones:</strong><br />
+Fiorella Artega Linares <br>
+Asesora de Servicios Educativos<br>
+Of. De Admisión e Inscripciones<br>
+Campus San Lázaro -  Edificio Newman, Primer nivel<br>
+Quinta Vivanco s/n -  Urb. Campiña Paisajista, Arequipa - Perú<br>
++51 54 605630, anexo 631<br>
+<a href="mailto:farteaga@ucsp.edu.pe?subject=Diplomado Business Analytics" style="font-size:14px;"><strong>farteaga@ucsp.edu.pe</strong></a>
+ </div>
+</div>
+</div>
+<br />
+<br />
+<hr />
+
+
+
+
+
