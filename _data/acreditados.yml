@@ -1,5 +1,14 @@
-- nombre: Dr. Alex Jesús Cuadros Vargas
+- nombre: Dr. Erick Gomez Nieto
   cargo: Director del Centro de Investigación e Innovación en Ciencia de la Computación.
+  bio:  
+    - Post Doc. Center for the Study of Violence-USP, Brasil, 2020.
+    - Dr. Ciencia de la Computación, ICMC-USP, Brasil, 2017.
+    - Mag. Ciencia de la Computación, ICMC-USP, Brasil, 2012.
+    - Ingeniero Informático, Universidad Católica San Pablo, Perú, 2012.
+  linea: Visualización, Análisis Visual, Computación Gráfica
+  email: emgomez@ucsp.edu.pe
+  cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17384 
+- nombre: Dr. Alex Jesús Cuadros Vargas
   bio:
     - Post Doc. Ciencia de la Computación, ICMC-USP, Brasil, 2009.
     - Dr. Ciencia de la Computación, ICMC-USP, Brasil, 2007.
@@ -39,14 +48,6 @@
   linea: Imágenes, Visión Computacional, Computación Gráfica
   email: meloaiza@ucsp.edu.pe
   cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=54641
-- nombre: Dr. Erick Gomez Nieto
-  bio:  
-    - Dr. Ciencia de la Computación, ICMC-USP, Brasil, 2017.
-    - Mag. Ciencia de la Computación, ICMC-USP, Brasil, 2012.
-    - Ingeniero Informático, Universidad Católica San Pablo, Perú, 2012.
-  linea: Visualización, Análisis Visual, Computación Gráfica
-  email: emgomez@ucsp.edu.pe
-  cv: http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17384 
 - nombre: Dr. Jorge Poco Medina
   bio:  
     - Dr. Ciencia de la Computación, NYU, EEUU, 2015.
